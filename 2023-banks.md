@@ -1,0 +1,46 @@
+﻿| name                                | code |
+|-------------------------------------|------|
+| Kenya Commercial Bank Limited       | 01   |
+| Standard Chartered Bank Kenya Ltd   | 02   |
+| Absa Bank Kenya Plc                 | 03   |
+| Bank of India                       | 05   |
+| Bank of Baroda(Kenya Ltd)           | 06   |
+| NCBA Bank Kenya Plc                 | 07   |
+| Central Bank Of Kenya               | 09   |
+| Prime Bank Limited                  | 10   |
+| Co-operative Bank of Kenya Limited  | 11   |
+| National Bank Of Kenya              | 12   |
+| M-Oriental Bank Limited             | 14   |
+| CITI BANK N A                       | 16   |
+| Habib Bank AG Zurich                | 17   |
+| Middle East Bank Kenya Limited      | 18   |
+| Bank of Africa Kenya Limited        | 19   |
+| Consolidated Bank of Kenya Ltd      | 23   |
+| Credit Bank PLC                     | 25   |
+| Access Bank Kenya PLC               | 26   |
+| Stanbic Bank Plc                    | 31   |
+| African Banking Corporation Limited | 35   |
+| ECO Bank Kenya LTD                  | 43   |
+| Spire Bank                          | 49   |
+| Paramount Bank Limited              | 50   |
+| Kingdom Bank Limited                | 51   |
+| Guaranty Trust Bank ( Kenya) Ltd    | 53   |
+| Victoria Commercial Bank            | 54   |
+| Guardian Bank Limited               | 55   |
+| I&M BANK (KENYA) LTD                | 57   |
+| Development Bank of Kenya Limited   | 59   |
+| State Bank of Mauritius Kenya       | 60   |
+| Housing Finance Bank                | 61   |
+| Kenya Post Office Savings Bank      | 62   |
+| Diamond Trust Bank Limited          | 63   |
+| Mayfair CIB Bank                    | 65   |
+| Sidian Bank Limited                 | 66   |
+| Equity Bank Limited                 | 68   |
+| Family Bank Ltd                     | 70   |
+| Gulf African Bank Ltd               | 72   |
+| Premier Bank Kenya Limited          | 74   |
+| DIB Bank Kenya Limited              | 75   |
+| UBA Kenya Bank Ltd                  | 76   |
+| Kenya Women Microfinance Bank       | 78   |
+| Faulu Microfinance Bank Ltd         | 79   |
+| Caritas Microfinance Bank Ltd       | 80   |
