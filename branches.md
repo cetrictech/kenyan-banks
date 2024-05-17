@@ -1,0 +1,1970 @@
+﻿| bankCode | branchCode | branchName                                    |
+|----------|------------|-----------------------------------------------|
+| 01       | 340        | KAREN WATERFRONT PLATINUM                     |
+| 01       | 341        | KCB NGONG BRANCH                              |
+| 01       | 325        | GARDEN CITY                                   |
+| 01       | 326        | JKIA                                          |
+| 01       | 327        | MAKUTANO                                      |
+| 01       | 330        | KCB NEXTGEN                                   |
+| 01       | 331        | KCB MOGOTIO                                   |
+| 01       | 329        | TWO RIVERS                                    |
+| 01       | 332        | KCB UPPERHILL PLATINUM                        |
+| 01       | 337        | KCB KILIMANI PLATINUM                         |
+| 01       | 339        | KCB UTAWALA                                   |
+| 01       | 302        | DIASPORA                                      |
+| 01       | 303        | KISII WEST                                    |
+| 01       | 304        | MBITA                                         |
+| 01       | 305        | SORI                                          |
+| 01       | 306        | HURLINGHAM                                    |
+| 01       | 307        | KIBERA                                        |
+| 01       | 308        | THIKA ROAD MALL BRANCH                        |
+| 01       | 309        | KASARANI BRANCH                               |
+| 01       | 310        | KCB MAASAI MARA                               |
+| 01       | 311        | KCB KABARTONJO                                |
+| 01       | 312        | KCB ELDORET EAST                              |
+| 01       | 313        | KIKIM                                         |
+| 01       | 314        | KCB JKUAT                                     |
+| 01       | 315        | KCB CHANGAMWE                                 |
+| 01       | 316        | KCB MAKONGENI                                 |
+| 01       | 317        | KCB SYOKIMAU                                  |
+| 01       | 318        | KCB MOI REFERRAL HOSPITAL                     |
+| 01       | 319        | KCB KITALE ADVANTAGE                          |
+| 01       | 320        | KCB LAVINGTON                                 |
+| 01       | 322        | KCB RIVERSIDE ADVANTAGE                       |
+| 01       | 323        | KCB GIGIRI SQUARE                             |
+| 01       | 324        | KAYOLE                                        |
+| 01       | 214        | GATUNDU                                       |
+| 01       | 215        | EMALI                                         |
+| 01       | 216        | ISIOLO                                        |
+| 01       | 217        | KCB FLAMINGO                                  |
+| 01       | 218        | NJORO                                         |
+| 01       | 219        | MUTOMO                                        |
+| 01       | 220        | MARIAKANI                                     |
+| 01       | 221        | MPEKETONI                                     |
+| 01       | 222        | MTITU ANDEI                                   |
+| 01       | 223        | MTWAPA                                        |
+| 01       | 224        | TAVETA                                        |
+| 01       | 225        | KENGELENI                                     |
+| 01       | 226        | GARSEN                                        |
+| 01       | 227        | WATAMU                                        |
+| 01       | 228        | BONDO                                         |
+| 01       | 229        | BUSIA                                         |
+| 01       | 230        | HOMA BAY                                      |
+| 01       | 231        | KAPSOWAR                                      |
+| 01       | 232        | KEHANCHA                                      |
+| 01       | 233        | KEROKA                                        |
+| 01       | 234        | KILGORIS                                      |
+| 01       | 235        | KIMILILI                                      |
+| 01       | 236        | LITEIN                                        |
+| 01       | 237        | LONDIANI BRANCH                               |
+| 01       | 238        | LUANDA                                        |
+| 01       | 239        | MALABA                                        |
+| 01       | 240        | MUHORONI                                      |
+| 01       | 241        | OYUGIS                                        |
+| 01       | 242        | UGUNJA                                        |
+| 01       | 243        | UNITED MALL                                   |
+| 01       | 244        | SEREM                                         |
+| 01       | 245        | SONDU                                         |
+| 01       | 246        | KISUMU WEST                                   |
+| 01       | 247        | MARIGAT                                       |
+| 01       | 248        | MOIS BRIDGE                                   |
+| 01       | 249        | MASHARIKI                                     |
+| 01       | 250        | NARO MORO                                     |
+| 01       | 251        | KIRIAINI                                      |
+| 01       | 252        | EGERTON UNIVERSITY                            |
+| 01       | 253        | MAUA                                          |
+| 01       | 254        | KAWANGARE                                     |
+| 01       | 255        | KIMATHI                                       |
+| 01       | 256        | NAMANGA                                       |
+| 01       | 288        | HAILE SELASSIE                                |
+| 01       | 289        | SALAMA HOUSE MORTGAGE CENTRE                  |
+| 01       | 290        | GARDEN PLAZA                                  |
+| 01       | 291        | SARIT CENTRE MORTGAGE CENTRE                  |
+| 01       | 292        | CPC BULK CORPORATE CHEQUES                    |
+| 01       | 293        | TRADE SERVICES                                |
+| 01       | 295        | NAIROBI HIGH COURT                            |
+| 01       | 296        | MOMBASA HIGH COURT                            |
+| 01       | 297        | KISUMU AIRPORT                                |
+| 01       | 298        | PORT VICTORIA                                 |
+| 01       | 300        | NYALI                                         |
+| 01       | 301        | WESTGATE ADVANTAGE                            |
+| 01       | 287        | KISAUNI                                       |
+| 01       | 257        | GIKOMBA                                       |
+| 01       | 258        | KWALE                                         |
+| 01       | 259        | PRESTIGE PLAZA                                |
+| 01       | 260        | KARIOBANGI                                    |
+| 01       | 263        | BIASHARA STREET                               |
+| 01       | 266        | NGARA                                         |
+| 01       | 267        | KYUSO                                         |
+| 01       | 270        | MASII                                         |
+| 01       | 271        | MENENGAI CRATER                               |
+| 01       | 272        | TOWN CENTRE                                   |
+| 01       | 278        | MAKINDU                                       |
+| 01       | 283        | RONGO                                         |
+| 01       | 284        | ISIBANIA                                      |
+| 01       | 285        | KISERIAN                                      |
+| 01       | 286        | MWEMBE TAYARI                                 |
+| 01       | 342        | IMARA DAIMA                                   |
+| 01       | 343        | TAKABA TOWN                                   |
+| 01       | 163        | ELDAMA RAVINE                                 |
+| 01       | 164        | KIBWEZI                                       |
+| 01       | 166        | KAPSABET                                      |
+| 01       | 167        | UNIVERSITY WAY                                |
+| 01       | 168        | KCB ELDORET WEST                              |
+| 01       | 169        | GARISSA                                       |
+| 01       | 124        | MUMIAS                                        |
+| 01       | 125        | NANYUKI                                       |
+| 01       | 127        | MOYALE                                        |
+| 01       | 129        | KIKUYU                                        |
+| 01       | 130        | TALA                                          |
+| 01       | 131        | KAJIADO                                       |
+| 01       | 133        | KCB CUSTODY SERVICES                          |
+| 01       | 134        | MATUU                                         |
+| 01       | 135        | KITUI                                         |
+| 01       | 136        | MVITA                                         |
+| 01       | 137        | JOGOO RD NAIROBI                              |
+| 01       | 139        | CARD CENTRE                                   |
+| 01       | 140        | MARSABIT                                      |
+| 01       | 141        | SARIT CENTRE                                  |
+| 01       | 142        | LOITOKITOK                                    |
+| 01       | 143        | NANDI HILLS                                   |
+| 01       | 144        | LODWAR                                        |
+| 01       | 145        | UN GIGIRI                                     |
+| 01       | 146        | HOLA                                          |
+| 01       | 147        | RUIRU                                         |
+| 01       | 148        | MWINGI                                        |
+| 01       | 149        | KITALE                                        |
+| 01       | 150        | MANDERA                                       |
+| 01       | 151        | KAPENGURIA                                    |
+| 01       | 152        | KABARNET                                      |
+| 01       | 153        | WAJIR                                         |
+| 01       | 154        | MARALAL                                       |
+| 01       | 155        | LIMURU                                        |
+| 01       | 157        | UKUNDA                                        |
+| 01       | 158        | ITEN                                          |
+| 01       | 159        | GILGIL                                        |
+| 01       | 161        | ONGATA RONGAI                                 |
+| 01       | 162        | KITENGELA                                     |
+| 01       | 338        | KCB LANGATA                                   |
+| 01       | 344        | KCB RUMURUTI BRANCH                           |
+| 01       | 091        | EASTLEIGH                                     |
+| 01       | 092        | KCB CPC                                       |
+| 01       | 094        | HEAD OFFICE                                   |
+| 01       | 095        | WOTE                                          |
+| 01       | 096        | HEAD OFFICE FINANCE                           |
+| 01       | 100        | MOI AVENUE NAIROBI                            |
+| 01       | 101        | KIPANDE HOUSE                                 |
+| 01       | 102        | TREASURY SQ MOMBASA                           |
+| 01       | 103        | NAKURU                                        |
+| 01       | 104        | KICC                                          |
+| 01       | 105        | KISUMU                                        |
+| 01       | 106        | KERICHO                                       |
+| 01       | 107        | TOM MBOYA                                     |
+| 01       | 108        | THIKA                                         |
+| 01       | 109        | ELDORET                                       |
+| 01       | 110        | KAKAMEGA                                      |
+| 01       | 111        | KILINDINI MOMBASA                             |
+| 01       | 112        | NYERI                                         |
+| 01       | 113        | INDUSTRIAL AREA NAIROBI                       |
+| 01       | 114        | RIVER ROAD                                    |
+| 01       | 115        | MURANGA                                       |
+| 01       | 116        | EMBU                                          |
+| 01       | 117        | KANGEMA                                       |
+| 01       | 119        | KIAMBU                                        |
+| 01       | 120        | KARATINA                                      |
+| 01       | 121        | SIAYA                                         |
+| 01       | 122        | NYAHURURU                                     |
+| 01       | 123        | MERU                                          |
+| 01       | 173        | LAMU                                          |
+| 01       | 174        | KILIFI                                        |
+| 01       | 175        | MILIMANI                                      |
+| 01       | 176        | NYAMIRA                                       |
+| 01       | 177        | MUKURUWEINI                                   |
+| 01       | 180        | VILLAGE MARKET                                |
+| 01       | 181        | BOMET                                         |
+| 01       | 183        | MBALE                                         |
+| 01       | 184        | NAROK                                         |
+| 01       | 185        | OTHAYA                                        |
+| 01       | 186        | VOI                                           |
+| 01       | 188        | WEBUYE                                        |
+| 01       | 189        | SOTIK                                         |
+| 01       | 190        | NAIVASHA                                      |
+| 01       | 191        | KISII                                         |
+| 01       | 192        | MIGORI                                        |
+| 01       | 193        | GITHUNGURI                                    |
+| 01       | 194        | MACHAKOS                                      |
+| 01       | 195        | KERUGOYA                                      |
+| 01       | 196        | CHUKA                                         |
+| 01       | 197        | BUNGOMA                                       |
+| 01       | 198        | WUNDANYI                                      |
+| 01       | 199        | MALINDI                                       |
+| 01       | 201        | CAPITAL HILL                                  |
+| 01       | 202        | KAREN                                         |
+| 01       | 203        | LOKICHOGIO                                    |
+| 01       | 204        | GATEWAY MSA ROAD                              |
+| 01       | 205        | BURUBURU                                      |
+| 01       | 206        | CHOGORIA                                      |
+| 01       | 207        | KANGARE                                       |
+| 01       | 208        | KIANYAGA                                      |
+| 01       | 209        | NKUBU                                         |
+| 01       | 210        | OL KALOU                                      |
+| 01       | 211        | MAKUYU                                        |
+| 01       | 212        | MWEA                                          |
+| 01       | 213        | NJAMBINI                                      |
+| 01       | 333        | KAKUMA BRANCH                                 |
+| 01       | 334        | KCB PARKLANDS                                 |
+| 01       | 335        | KCB DIANI                                     |
+| 01       | 336        | KCB ELDORET ADVANTAGE BRANCH                  |
+| 02       | 000        | ELDORET                                       |
+| 02       | 001        | KERICHO                                       |
+| 02       | 002        | KISUMU                                        |
+| 02       | 003        | KITALE                                        |
+| 02       | 004        | TREASURY SQUARE                               |
+| 02       | 005        | KILINDINI                                     |
+| 02       | 006        | KENYATTA AVENUE                               |
+| 02       | 008        | MOI AVENUE                                    |
+| 02       | 009        | NAKURU                                        |
+| 02       | 010        | NANYUKI                                       |
+| 02       | 011        | NYERI                                         |
+| 02       | 012        | THIKA                                         |
+| 02       | 015        | WESTLANDS                                     |
+| 02       | 016        | MACHAKOS                                      |
+| 02       | 017        | MERU                                          |
+| 02       | 019        | HARAMBEE AVENUE                               |
+| 02       | 053        | INDUSTRIAL AREA                               |
+| 02       | 054        | KAKAMEGA                                      |
+| 02       | 064        | KOINAGE                                       |
+| 02       | 071        | YAYA CENTRE BRANCH                            |
+| 02       | 072        | RUARAKA                                       |
+| 02       | 073        | LANGATA                                       |
+| 02       | 074        | MAKUPA                                        |
+| 02       | 075        | KAREN                                         |
+| 02       | 076        | MUTHAIGA                                      |
+| 02       | 078        | C.O.U                                         |
+| 02       | 079        | UKAY                                          |
+| 02       | 080        | TWO RIVERS BRANCH                             |
+| 02       | 081        | KISII                                         |
+| 02       | 082        | UPPER HILL BRANCH                             |
+| 02       | 083        | NYALI                                         |
+| 02       | 084        | CHIROMO                                       |
+| 02       | 085        | GREENSPAN                                     |
+| 02       | 086        | THE T-MALL                                    |
+| 02       | 087        | THE JUNCTION                                  |
+| 02       | 089        | KITENGELA                                     |
+| 02       | 090        | BUNGOMA                                       |
+| 02       | 091        | THIKA ROAD MALL                               |
+| 02       | 092        | UN GIGIRI                                     |
+| 03       | 140        | TWO RIVERS                                    |
+| 03       | 007        | KERICHO BRANCH                                |
+| 03       | 008        | KISII BRANCH                                  |
+| 03       | 009        | KISUMU BRANCH                                 |
+| 03       | 010        | SOUTH C BRANCH                                |
+| 03       | 011        | LIMURU BRANCH                                 |
+| 03       | 012        | MALINDI BRANCH                                |
+| 03       | 013        | MERU BRANCH                                   |
+| 03       | 014        | EASTLEIGH BRANCH                              |
+| 03       | 015        | KITUI BRANCH                                  |
+| 03       | 016        | NKRUMAH ROAD BRANCH                           |
+| 03       | 017        | GARISSA BRANCH                                |
+| 03       | 018        | NYAMIRA BRANCH                                |
+| 03       | 019        | KILIFI BRANCH                                 |
+| 03       | 020        | OFFICE PARK WESTLANDS                         |
+| 03       | 026        | KAKAMEGA BRANCH                               |
+| 03       | 001        | HEAD OFFICE - VPC                             |
+| 03       | 002        | KAPSABET BRANCH                               |
+| 03       | 003        | ELDORET BRANCH                                |
+| 03       | 004        | EMBU BRANCH                                   |
+| 03       | 005        | MURANG A BRANCH                               |
+| 03       | 006        | KAPENGURIA BRANCH                             |
+| 03       | 021        | BARCLAYCARD OPERATIONS                        |
+| 03       | 022        | PAYMANTS AND INTERNATIONAL SERVICES           |
+| 03       | 023        | GILGIL BRANCH                                 |
+| 03       | 024        | THIKA ROAD MALL                               |
+| 03       | 049        | LAVINGTON BRANCH                              |
+| 03       | 050        | TALA                                          |
+| 03       | 051        | HOMA BAY BRANCH                               |
+| 03       | 052        | ONGATA RONGAI BRANCH                          |
+| 03       | 053        | OTHAYA BRANCH                                 |
+| 03       | 054        | VOI BRANCH                                    |
+| 03       | 055        | MUTHAIGA BRANCH                               |
+| 03       | 056        | BARCLAYS ADVISORY AND REG. SERVICES           |
+| 03       | 057        | GITHUNGURI BRANCH                             |
+| 03       | 058        | WEBUYE BRANCH                                 |
+| 03       | 059        | KASARANI BRANCH                               |
+| 03       | 060        | CHUKA BRANCH                                  |
+| 03       | 061        | NAKUMATT-WESTGATE BRANCH                      |
+| 03       | 062        | KABARNET BRANCH                               |
+| 03       | 063        | KERUGOYA BRANCH                               |
+| 03       | 064        | TAVETA BRANCH                                 |
+| 03       | 065        | KAREN BRANCH                                  |
+| 03       | 066        | WUNDANYI BRANCH                               |
+| 03       | 067        | RUARAKA BRANCH                                |
+| 03       | 068        | KITENGELA BRANCH                              |
+| 03       | 069        | WOTE BRANCH                                   |
+| 03       | 070        | ENTERPRISE ROAD BRANCH                        |
+| 03       | 071        | NAKUMATT MERU BRANCH                          |
+| 03       | 072        | JUJA BRANCH                                   |
+| 03       | 073        | WESTLANDS BRANCH                              |
+| 03       | 074        | KIKUYU BRANCH                                 |
+| 03       | 075        | MOI AVENUE-NAIROBI BRANCH                     |
+| 03       | 076        | NYALI                                         |
+| 03       | 077        | ABSA TOWERS BRANCH                            |
+| 03       | 034        | KAWANGWARE                                    |
+| 03       | 035        | MBALE                                         |
+| 03       | 036        | PLAZA PREMIER CENTRE                          |
+| 03       | 037        | RIVER ROAD BRANCH                             |
+| 03       | 038        | CHOMBA HOUSE-RIVER ROAD                       |
+| 03       | 039        | MUMIAS BRANCH                                 |
+| 03       | 040        | MACHAKOS BRANCH                               |
+| 03       | 041        | NAROK BRANCH                                  |
+| 03       | 042        | ISIOLO BRANCH                                 |
+| 03       | 043        | NGONG BRANCH                                  |
+| 03       | 044        | MAUA BRANCH                                   |
+| 03       | 045        | HURLINGHAM BRANCH                             |
+| 03       | 046        | MAKUPA BRANCH                                 |
+| 03       | 047        | DEVELOPMENT HOUSE BRANCH                      |
+| 03       | 048        | BUNGOMA                                       |
+| 03       | 027        | NAKURU EAST                                   |
+| 03       | 028        | BURUBURU                                      |
+| 03       | 029        | BOMET                                         |
+| 03       | 030        | NYERI BRANCH                                  |
+| 03       | 031        | THIKA BRANCH                                  |
+| 03       | 032        | PORT MOMBASA                                  |
+| 03       | 033        | GIKOMBA                                       |
+| 03       | 128        | BAMBURI BRANCH                                |
+| 03       | 130        | HARAMBEE AVE - PREMIER LIFE CENTRE            |
+| 03       | 132        | KITALE BRANCH                                 |
+| 03       | 139        | NYAHURURU BRANCH                              |
+| 03       | 144        | TREASURY OPERATIONS                           |
+| 03       | 145        | MOI AVENUE MOMBASA - PREMIER LIFE CENTRE      |
+| 03       | 151        | CASH MONITORING UNIT                          |
+| 03       | 190        | NANYUKI BRANCH                                |
+| 03       | 206        | KARATINA BRANCH                               |
+| 03       | 220        | MOMBASA NYERERE AVE - PREMIER LIFE CENTRE     |
+| 03       | 273        | CONSUMER OPERATIONS                           |
+| 03       | 300        | FINANCE DEPARTMENT                            |
+| 03       | 337        | DOCUMENTS AND SECURITIES DSC                  |
+| 03       | 340        | RETAIL CREDIT TEAM                            |
+| 03       | 354        | CREDIT OPERATIONS                             |
+| 03       | 400        | HEAD OFFICE                                   |
+| 03       | 078        | KIRIAINI BRANCH                               |
+| 03       | 079        | BUTERE ROAD BRANCH                            |
+| 03       | 080        | MIGORI BRANCH                                 |
+| 03       | 081        | DIGO BRANCH                                   |
+| 03       | 082        | HAILE SELASSIE AVENUE BRANCH                  |
+| 03       | 083        | NAIROBI UNIVERSITY BRANCH                     |
+| 03       | 084        | BUNYALA ROAD                                  |
+| 03       | 086        | NAIROBI WEST BRANCH                           |
+| 03       | 087        | PARKLANDS                                     |
+| 03       | 088        | BUSIA                                         |
+| 03       | 089        | PANGANI BRANCH                                |
+| 03       | 090        | ABC PREMIER LIFE CENTRE                       |
+| 03       | 093        | KARIOBANGI BRANCH                             |
+| 03       | 094        | QUEENSWAY HOUSE BRANCH                        |
+| 03       | 095        | NAKUMATT EMBAKASI BRANCH                      |
+| 03       | 096        | BARCLAYS MERCHANT FINANCE LTD.                |
+| 03       | 097        | BARCLAYS SECURITIES SERVICES (K               |
+| 03       | 100        | DIANI BRANCH                                  |
+| 03       | 103        | NAIROBI J.K.I.A BRANCH                        |
+| 03       | 105        | VILLAGE MARKET - PREMIER LIFE CENTRE          |
+| 03       | 106        | SARIT CENTRE - PREMIER LIFE CENTRE            |
+| 03       | 109        | YAYA CENTRE- PREMIER LIFE CENTRE              |
+| 03       | 111        | NAIVASHA BRANCH                               |
+| 03       | 113        | MARKET BRANCH                                 |
+| 03       | 114        | CHANGAMWE BRANCH                              |
+| 03       | 117        | RAHIMTULLA TRUST TOWERS - PREMIER LIFE CENTRE |
+| 03       | 125        | NAKURU WEST BRANCH                            |
+| 05       | 000        | KENYATTA AVENUE , NAIROBI                     |
+| 05       | 001        | NKRUMAH ROAD , MOMBASA                        |
+| 05       | 002        | INDUSTRIAL AREA                               |
+| 05       | 003        | WESTLANDS                                     |
+| 05       | 005        | ELDORET                                       |
+| 06       | 017        | MUTHITHI ROAD                                 |
+| 06       | 000        | NAIROBI MAIN                                  |
+| 06       | 002        | DIGO ROAD, MOMBASA                            |
+| 06       | 004        | THIKA                                         |
+| 06       | 005        | KISUMU                                        |
+| 06       | 006        | SARIT CENTRE                                  |
+| 06       | 007        | INDUSTRIAL AREA                               |
+| 06       | 008        | ELDORET                                       |
+| 06       | 009        | NAKURU                                        |
+| 06       | 010        | KAKAMEGA                                      |
+| 06       | 011        | NYALI MOMBASA                                 |
+| 06       | 012        | MERU                                          |
+| 06       | 015        | DIAMOND PLAZA                                 |
+| 06       | 016        | MOMBASA ROAD                                  |
+| 07       | 209        | MWEMBE TAYARI                                 |
+| 07       | 208        | RUIRU EASTERN BYPASS                          |
+| 07       | 206        | NYERI                                         |
+| 07       | 207        | KARATINA                                      |
+| 07       | 210        | KAKAMEGA                                      |
+| 07       | 033        | RIVER ROAD                                    |
+| 07       | 034        | KAREN HUB                                     |
+| 07       | 211        | KERICHO                                       |
+| 07       | 213        | BUNGOMA                                       |
+| 07       | 212        | EMBU                                          |
+| 07       | 216        | GIKOMBA                                       |
+| 07       | 214        | NGONG                                         |
+| 07       | 215        | KIAMBU                                        |
+| 07       | 217        | NAIVASHA                                      |
+| 07       | 035        | GARDEN CITY                                   |
+| 07       | 036        | TWO RIVERS MALL                               |
+| 07       | 101        | CITY CENTRE                                   |
+| 07       | 102        | NIC HOUSE                                     |
+| 07       | 103        | HARBOUR HOUSE                                 |
+| 07       | 105        | WESTLANDS                                     |
+| 07       | 106        | THE JUNCTION BR.                              |
+| 07       | 107        | NAKURU                                        |
+| 07       | 110        | HARAMBEE                                      |
+| 07       | 111        | PRESTIGE-NGONG ROAD                           |
+| 07       | 112        | KISUMU                                        |
+| 07       | 113        | THIKA                                         |
+| 07       | 114        | MERU                                          |
+| 07       | 118        | SAMEER PARK                                   |
+| 07       | 119        | KAREN                                         |
+| 07       | 121        | TAJ MALL                                      |
+| 07       | 122        | ABC                                           |
+| 07       | 123        | THIKA ROAD MALL                               |
+| 07       | 124        | CHANGAMWE BRANCH                              |
+| 07       | 125        | KENYATTA AVENUE                               |
+| 07       | 126        | RIVERSIDE                                     |
+| 07       | 127        | MACHAKOS                                      |
+| 07       | 128        | LUNGA LUNGA SQUARE                            |
+| 07       | 129        | KILIMANI                                      |
+| 07       | 130        | KITENGELA                                     |
+| 07       | 146        | KILIFI                                        |
+| 07       | 147        | WATAMU                                        |
+| 07       | 148        | DIANI                                         |
+| 07       | 149        | KITALE                                        |
+| 07       | 200        | NAROK BRANCH                                  |
+| 07       | 201        | LAVINGTON BRANCH                              |
+| 07       | 500        | HEAD OFFICE                                   |
+| 07       | 501        | HEAD OFFICE                                   |
+| 07       | 502        | HEAD OFFICE                                   |
+| 07       | 503        | HEAD OFFICE                                   |
+| 07       | 600        | HEAD OFFICE                                   |
+| 07       | 131        | KISII                                         |
+| 07       | 132        | KMA CENTRE                                    |
+| 07       | 133        | BURU BURU                                     |
+| 07       | 134        | CPA CENTRE, RUARAKA                           |
+| 07       | 135        | RONGAI                                        |
+| 07       | 141        | ROSSLYN RIVIERA                               |
+| 07       | 142        | CIATA MALL                                    |
+| 07       | 143        | PARKLANDS                                     |
+| 07       | 144        | NANYUKI                                       |
+| 07       | 145        | MALINDI                                       |
+| 07       | 005        | INDUSTRIAL AREA                               |
+| 07       | 006        | MAMLAKA                                       |
+| 07       | 007        | VILLAGE MARKET                                |
+| 07       | 008        | CARGO CENTRE                                  |
+| 07       | 009        | PARK SIDE                                     |
+| 07       | 026        | ELDORET                                       |
+| 07       | 027        | KISUMU                                        |
+| 07       | 028        | THIKA                                         |
+| 07       | 029        | NANYUKI                                       |
+| 07       | 030        | YAYA CENTRE                                   |
+| 07       | 031        | LAVINGTON                                     |
+| 07       | 032        | MACHAKOS                                      |
+| 07       | 016        | GALLERIA MALL                                 |
+| 07       | 017        | JUNCTION                                      |
+| 07       | 018        | THIKA ROAD MALL                               |
+| 07       | 019        | GREENSPAN MALL                                |
+| 07       | 020        | MOI AVENUE MOMBASA                            |
+| 07       | 021        | MERU                                          |
+| 07       | 022        | NAKURU                                        |
+| 07       | 023        | NYALI                                         |
+| 07       | 024        | DIANI                                         |
+| 07       | 025        | CHANGAMWE                                     |
+| 07       | 219        | BUSIA                                         |
+| 07       | 223        | KENOL TOWN                                    |
+| 07       | 222        | UTAWALA NAIROBI                               |
+| 07       | 221        | EASTLEIGH NAIROBI                             |
+| 07       | 33         | RIVER ROAD                                    |
+| 07       | 218        | MURANGA                                       |
+| 07       | 224        | KAHAWA SUKARI                                 |
+| 07       | 220        | CHWELE                                        |
+| 07       | 226        | MIGORI BRANCH                                 |
+| 07       | 225        | WOTE BRANCH                                   |
+| 07       | 115        | GALLERIA (BOMAS)                              |
+| 07       | 116        | ELDORET                                       |
+| 07       | 117        | VILLAGE MARKET                                |
+| 07       | 000        | HEAD OFFICE                                   |
+| 07       | 001        | UPPER HILL                                    |
+| 07       | 002        | WABERA STREET                                 |
+| 07       | 003        | MAMA NGINA                                    |
+| 07       | 004        | WESTLANDS BRANCH                              |
+| 07       | 104        | HEAD OFFICE-FARGO                             |
+| 07       | 108        | NYALI                                         |
+| 07       | 109        | NKRUMAH ROAD                                  |
+| 07       | 204        | SARIT CENTRE BRANCH                           |
+| 09       | 008        | KISII CENTRE                                  |
+| 09       | 000        | HEAD OFFICE                                   |
+| 09       | 001        | HEAD OFFICE                                   |
+| 09       | 002        | MOMBASA                                       |
+| 09       | 003        | KISUMU                                        |
+| 09       | 004        | ELDORET                                       |
+| 09       | 006        | NAKURU CENTRE                                 |
+| 10       | 021        | TWO RIVERS                                    |
+| 10       | 023        | MERU                                          |
+| 10       | 024        | LAVINGTON BRANCH                              |
+| 10       | 022        | UAP TOWERS                                    |
+| 10       | 000        | H/O RIVERSIDE                                 |
+| 10       | 001        | KENINDIA                                      |
+| 10       | 002        | BIASHARA                                      |
+| 10       | 003        | MOMBASA                                       |
+| 10       | 004        | WESTLANDS                                     |
+| 10       | 005        | INDUSTRIAL AREA                               |
+| 10       | 006        | KISUMU                                        |
+| 10       | 007        | PARKLANDS                                     |
+| 10       | 008        | RIVERSIDE DRIVE                               |
+| 10       | 009        | CARD CENTRE                                   |
+| 10       | 010        | HURLINGHAM                                    |
+| 10       | 011        | CAPITAL CENTRE                                |
+| 10       | 012        | NYALI                                         |
+| 10       | 014        | KAMUKUNJI                                     |
+| 10       | 015        | ELDORET                                       |
+| 10       | 016        | KAREN                                         |
+| 10       | 017        | NAKURU                                        |
+| 10       | 020        | GARDEN CITY                                   |
+| 10       | 019        | THIKA                                         |
+| 10       | 027        | BABA DOGO                                     |
+| 10       | 025        | VILLAGE MARKET                                |
+| 10       | 026        | KITALE                                        |
+| 11       | 170        | KAMULU BRANCH                                 |
+| 11       | 156        | RIDGEWAYS MALL                                |
+| 11       | 157        | TWO RIVERS MALL                               |
+| 11       | 158        | JKIA                                          |
+| 11       | 154        | GIKOMBA AREA 42                               |
+| 11       | 166        | KAPENGURIA SUB - BRANCH                       |
+| 11       | 162        | LITEIN                                        |
+| 11       | 161        | KILIMANI                                      |
+| 11       | 159        | EMALI                                         |
+| 11       | 163        | THIKA MAKONGENI                               |
+| 11       | 160        | KANGEMA                                       |
+| 11       | 155        | UTAWALA                                       |
+| 11       | 020        | EASTLEIGH                                     |
+| 11       | 021        | KIAMBU                                        |
+| 11       | 022        | HOMA BAY                                      |
+| 11       | 023        | EMBU                                          |
+| 11       | 024        | KERICHO                                       |
+| 11       | 025        | BUNGOMA                                       |
+| 11       | 026        | MURANGA                                       |
+| 11       | 027        | KAYOLE                                        |
+| 11       | 028        | KARATINA                                      |
+| 11       | 029        | UKUNDA                                        |
+| 11       | 030        | MTWAPA                                        |
+| 11       | 031        | UNIVERSITY WAY                                |
+| 11       | 032        | BURU BURU                                     |
+| 11       | 033        | ATHI RIVER                                    |
+| 11       | 034        | MUMIAS                                        |
+| 11       | 038        | ONGATA RONGAI                                 |
+| 11       | 039        | THIKA                                         |
+| 11       | 040        | NACICO                                        |
+| 11       | 041        | KARIOBANGI                                    |
+| 11       | 042        | KAWANGWARE                                    |
+| 11       | 043        | MAKUTANO                                      |
+| 11       | 044        | PARLIAMENT ROAD                               |
+| 11       | 045        | KIMATHI STREET                                |
+| 11       | 046        | KITALE                                        |
+| 11       | 047        | GITHURAI                                      |
+| 11       | 048        | MAUA                                          |
+| 11       | 049        | CITY HALL                                     |
+| 11       | 050        | DIGO RD                                       |
+| 11       | 051        | NBC                                           |
+| 11       | 000        | HEAD OFFICE                                   |
+| 11       | 001        | FINANCE AND ACCOUNTS                          |
+| 11       | 002        | CO-OP HOUSE                                   |
+| 11       | 003        | KISUMU                                        |
+| 11       | 004        | NKURUMAH ROAD                                 |
+| 11       | 005        | MERU                                          |
+| 11       | 006        | NAKURU                                        |
+| 11       | 007        | INDUSTRIAL AREA                               |
+| 11       | 008        | KISII                                         |
+| 11       | 009        | MACHAKOS                                      |
+| 11       | 010        | NYERI                                         |
+| 11       | 011        | UKULIMA                                       |
+| 11       | 012        | KERUGOYA                                      |
+| 11       | 013        | ELDORET                                       |
+| 11       | 014        | MOI AVENUE                                    |
+| 11       | 015        | NAIVASHA                                      |
+| 11       | 017        | NYAHURURU                                     |
+| 11       | 018        | CHUKA                                         |
+| 11       | 019        | WAKULIMA MARKET                               |
+| 11       | 062        | ZIMMERMAN                                     |
+| 11       | 063        | KENYATTA AVENUE NAKURU                        |
+| 11       | 064        | KITENGELA                                     |
+| 11       | 065        | AGA KHAN WALK                                 |
+| 11       | 066        | NAROK                                         |
+| 11       | 067        | KITUI                                         |
+| 11       | 068        | NANYUKI                                       |
+| 11       | 069        | EMBAKASI                                      |
+| 11       | 070        | KIBERA                                        |
+| 11       | 071        | SIAKAGO                                       |
+| 11       | 072        | KAPSABET                                      |
+| 11       | 073        | MBITA                                         |
+| 11       | 074        | KANGEMI                                       |
+| 11       | 075        | DANDORA                                       |
+| 11       | 076        | KAJIADO                                       |
+| 11       | 077        | TALA                                          |
+| 11       | 078        | GIKOMBA                                       |
+| 11       | 079        | RIVER ROAD                                    |
+| 11       | 080        | NYAMIRA                                       |
+| 11       | 081        | GARISA                                        |
+| 11       | 082        | BOMET                                         |
+| 11       | 083        | KEROKA                                        |
+| 11       | 084        | GILGIL                                        |
+| 11       | 085        | TOM MBOYA                                     |
+| 11       | 086        | LIKONI                                        |
+| 11       | 087        | DONHOLM                                       |
+| 11       | 088        | MWINGI                                        |
+| 11       | 089        | RUAKA                                         |
+| 11       | 090        | WEBUYE                                        |
+| 11       | 094        | SACCO CLEARING UNIT                           |
+| 11       | 097        | CLEARING CENTRE                               |
+| 11       | 100        | NDHIWA                                        |
+| 11       | 101        | OYUGIS                                        |
+| 11       | 102        | ISIOLO                                        |
+| 11       | 103        | UGANDA ROAD ELDORET                           |
+| 11       | 104        | CHANGAMWE                                     |
+| 11       | 105        | KONDELE                                       |
+| 11       | 106        | GITHURAI KIMBO                                |
+| 11       | 107        | MLOLONGO                                      |
+| 11       | 108        | KILIFI                                        |
+| 11       | 109        | OL KALAU                                      |
+| 11       | 110        | MBALE                                         |
+| 11       | 111        | KIMILILI                                      |
+| 11       | 035        | STIMA PLAZA                                   |
+| 11       | 036        | WESTLANDS                                     |
+| 11       | 037        | UPPER HILL                                    |
+| 11       | 137        | GATUNDU                                       |
+| 11       | 138        | RUIRU                                         |
+| 11       | 139        | NYALI MALL                                    |
+| 11       | 140        | YALA                                          |
+| 11       | 141        | MAASAI MALL - ONGATA RONGAI                   |
+| 11       | 142        | THIKA ROAD MALL                               |
+| 11       | 143        | KISERIAN                                      |
+| 11       | 144        | NANDI HILLS                                   |
+| 11       | 145        | LODWAR                                        |
+| 11       | 147        | ENGINEER                                      |
+| 11       | 148        | RONGO                                         |
+| 11       | 149        | LAVINGTON MALL                                |
+| 11       | 150        | BONDO                                         |
+| 11       | 151        | GIGIRI MALL                                   |
+| 11       | 152        | UNITED MALL, KISUMU                           |
+| 11       | 153        | GREEN HOUSE MALL                              |
+| 11       | 228        | SHARES OPERATIONS                             |
+| 11       | 247        | BACK OFFICE OPERATIONS                        |
+| 11       | 250        | E- CHANNELS UNIT                              |
+| 11       | 254        | DIASPORA BANKING                              |
+| 11       | 266        | KILINDINI PORT                                |
+| 11       | 270        | MONEY TRANSFERS AGENCY                        |
+| 11       | 052        | KAKAMEGA                                      |
+| 11       | 053        | MIGORI                                        |
+| 11       | 054        | KENYATTA AVENUE                               |
+| 11       | 055        | NKUBU                                         |
+| 11       | 056        | ENTERPRISE ROAD                               |
+| 11       | 057        | BUSIA                                         |
+| 11       | 058        | SIAYA                                         |
+| 11       | 059        | VOI                                           |
+| 11       | 060        | MARIAKANI                                     |
+| 11       | 061        | MALINDI                                       |
+| 11       | 128        | MARSABIT                                      |
+| 11       | 130        | DAGORETTI                                     |
+| 11       | 131        | OTHAYA                                        |
+| 11       | 132        | LIMURU                                        |
+| 11       | 133        | KIKUYU                                        |
+| 11       | 134        | GITHUNGURI                                    |
+| 11       | 135        | KAREN                                         |
+| 11       | 136        | MPEKETONI                                     |
+| 11       | 112        | KISII HIGHWAY                                 |
+| 11       | 113        | KILGORIS                                      |
+| 11       | 114        | WOTE                                          |
+| 11       | 116        | MALABA                                        |
+| 11       | 117        | MOLO                                          |
+| 11       | 118        | MWEA                                          |
+| 11       | 119        | KUTUS                                         |
+| 11       | 120        | UMOJA                                         |
+| 11       | 121        | EMBAKASI JUNCTION                             |
+| 11       | 122        | KONGOWEA                                      |
+| 11       | 123        | LANGATA ROAD                                  |
+| 11       | 124        | JUJA                                          |
+| 11       | 125        | NGONG                                         |
+| 11       | 126        | KAWANGWARE 46                                 |
+| 11       | 127        | MOMBASA ROAD                                  |
+| 11       | 092        | KABARNET BRANCH                               |
+| 11       | 091        | ITEN                                          |
+| 11       | 115        | KASARANI BRANCH                               |
+| 11       | 129        | KAMAKIS                                       |
+| 11       | 173        | CHWELE                                        |
+| 11       | 093        | HINDI BRANCH                                  |
+| 11       | 174        | THIKA KWAME NKRUMAH BRANCH                    |
+| 11       | 146        | KENOL-MAKUYU BRANCH                           |
+| 11       | 169        | ELDORET - KENYATTA STREET                     |
+| 11       | 171        | BAMBURI BRANCH                                |
+| 11       | 165        | CHOGORIA                                      |
+| 11       | 164        | KENYATTA AVENUE                               |
+| 11       | 167        | MARALAL                                       |
+| 11       | 172        | GREENWOOD MALL BRANCH                         |
+| 12       | 000        | CENTRAL BUSINESS UNIT                         |
+| 12       | 002        | KENYATTA                                      |
+| 12       | 003        | HARAMBEE                                      |
+| 12       | 004        | HILL                                          |
+| 12       | 005        | BUSIA                                         |
+| 12       | 006        | KIAMBU                                        |
+| 12       | 007        | MERU                                          |
+| 12       | 008        | KARATINA                                      |
+| 12       | 009        | NAROK                                         |
+| 12       | 010        | KISII                                         |
+| 12       | 011        | MALINDI                                       |
+| 12       | 012        | NYERI                                         |
+| 12       | 013        | KITALE                                        |
+| 12       | 015        | EASTLEIGH                                     |
+| 12       | 016        | LIMURU                                        |
+| 12       | 017        | KITUI                                         |
+| 12       | 018        | MOLO                                          |
+| 12       | 019        | BUNGOMA                                       |
+| 12       | 020        | NKRUMAH                                       |
+| 12       | 021        | KAPSABET                                      |
+| 12       | 022        | AWENDO                                        |
+| 12       | 023        | PORTWAY-MSA                                   |
+| 12       | 082        | MWEA BRANCH                                   |
+| 12       | 025        | HOSPITAL BR.                                  |
+| 12       | 026        | RUIRU                                         |
+| 12       | 027        | ONGATA RONGAI                                 |
+| 12       | 028        | EMBU                                          |
+| 12       | 029        | KAKAMEGA                                      |
+| 12       | 030        | NAKURU                                        |
+| 12       | 031        | UKUNDA                                        |
+| 12       | 032        | UPPER HILL                                    |
+| 12       | 033        | NANDI HILLS                                   |
+| 12       | 034        | MIGORI                                        |
+| 12       | 035        | WESTLANDS                                     |
+| 12       | 036        | TIMES TOWER                                   |
+| 12       | 037        | MAUA                                          |
+| 12       | 038        | WILSON AIRPORT                                |
+| 12       | 039        | J.K.I.A.                                      |
+| 12       | 040        | ELDORET                                       |
+| 12       | 056        | BOMET                                         |
+| 12       | 058        | GREENSPAN                                     |
+| 12       | 059        | SAMEER PARK                                   |
+| 12       | 060        | SEKU                                          |
+| 12       | 061        | NGONG ROAD                                    |
+| 12       | 062        | MOI AVENUE                                    |
+| 12       | 063        | MOUNTAIN MALL                                 |
+| 12       | 065        | NYALI CENTRE                                  |
+| 12       | 066        | KILIFI                                        |
+| 12       | 067        | SOUTH C BRANCH- KEBS                          |
+| 12       | 068        | KERICHO                                       |
+| 12       | 070        | ISIOLO                                        |
+| 12       | 071        | SOUTH C - RED CROSS                           |
+| 12       | 072        | NATIONAL BANK PREMIUM BANKING KISUMU          |
+| 12       | 073        | YAYA CENTRE                                   |
+| 12       | 074        | GIGIRI                                        |
+| 12       | 253        | NAROK AMANAH                                  |
+| 12       | 254        | NGONG RD AMANAH                               |
+| 12       | 255        | NKURUMA AMANAH                                |
+| 12       | 256        | NYALI AMANAH                                  |
+| 12       | 257        | NYERI AMANAH                                  |
+| 12       | 258        | ONGATA RONGAI AMANAH                          |
+| 12       | 259        | PORTWAY HSE AMANAH                            |
+| 12       | 260        | RUIRU AMANAH                                  |
+| 12       | 261        | SAMEER PARK AMANAH                            |
+| 12       | 262        | SEKU AMANAH                                   |
+| 12       | 263        | SOUTH C RED CROSS AMANAH                      |
+| 12       | 264        | ST. PAULS UNIVERSITY AMANAH                   |
+| 12       | 265        | TECHNICAL UNIV OF MSA AMANAH                  |
+| 12       | 266        | THIKA AMANAH                                  |
+| 12       | 093        | WAJIR                                         |
+| 12       | 094        | BONDENI                                       |
+| 12       | 096        | MANDERA                                       |
+| 12       | 098        | CARD CENTRE                                   |
+| 12       | 099        | HEAD OFFICE                                   |
+| 12       | 198        | CENTRAL CLEARING CENTRE                       |
+| 12       | 200        | HEAD OFFICE AMANAH                            |
+| 12       | 201        | CARD CENTRE AMANAH                            |
+| 12       | 202        | EASTLEIGH AMANAH                              |
+| 12       | 203        | KENYATTA AVE AMANAH                           |
+| 12       | 204        | WAJIR AMANAH                                  |
+| 12       | 205        | BONDENI AMANAH                                |
+| 12       | 206        | GARISSA AMANAH                                |
+| 12       | 207        | MANDERA AMANAH                                |
+| 12       | 208        | ISIOLO AMANAH                                 |
+| 12       | 209        | AWENDO AMANAH                                 |
+| 12       | 210        | BOMET AMANAH                                  |
+| 12       | 211        | BUNGOMA AMANAH                                |
+| 12       | 212        | BUSIA AMANAH                                  |
+| 12       | 213        | CHANGAMWE AMANAH                              |
+| 12       | 214        | ELDORET AMANAH                                |
+| 12       | 215        | EMBU AMANAH                                   |
+| 12       | 216        | GIGIRI AMANAH                                 |
+| 12       | 217        | GREENSPAN AMANAH                              |
+| 12       | 218        | HARAMBEE AVE AMANAH                           |
+| 12       | 219        | HILL AMANAH                                   |
+| 12       | 220        | HOSPITAL AMANAH                               |
+| 12       | 221        | JKIA AMANAH                                   |
+| 12       | 222        | KAKAMEGA AMANAH                               |
+| 12       | 223        | KAPSABET AMANAH                               |
+| 12       | 224        | KARATINA AMANAH                               |
+| 12       | 225        | KENYATTA AVE AMANAH                           |
+| 12       | 226        | KENYATTA UNIVERSITY AMANAH                    |
+| 12       | 227        | KERICHO AMANAH                                |
+| 12       | 228        | KIAMBU AMANAH                                 |
+| 12       | 229        | KIANJAI AMANAH                                |
+| 12       | 230        | KILIFI AMANAH                                 |
+| 12       | 231        | KISII AMANAH                                  |
+| 12       | 232        | KISUMU AMANAH                                 |
+| 12       | 267        | TIMES TOWER AMANAH                            |
+| 12       | 268        | TSC UPPER HILL BUILDING AMANAH                |
+| 12       | 269        | UKUNDA AMANAH                                 |
+| 12       | 270        | WESTLANDS AMANAH                              |
+| 12       | 271        | WILSON AIRPORT NRI AMANAH                     |
+| 12       | 272        | YAYA CENTRE AMANAH                            |
+| 12       | 233        | KISUMU PREMIUM CENTRE AMANAH                  |
+| 12       | 234        | KITALE AMANAH                                 |
+| 12       | 235        | KITENGELA AMANAH                              |
+| 12       | 236        | KITUI AMANAH                                  |
+| 12       | 237        | LIMURU AMANAH                                 |
+| 12       | 238        | LUNGA LUNGA AMANAH                            |
+| 12       | 239        | MACHAKOS AMANAH                               |
+| 12       | 240        | MALINDI AMANAH                                |
+| 12       | 241        | MAUA AMANAH                                   |
+| 12       | 242        | MERU AMANAH                                   |
+| 12       | 243        | MIGORI AMANAH                                 |
+| 12       | 244        | MOI AVE AMANAH                                |
+| 12       | 245        | MOI UNIVERSITY ELDORET AMANAH                 |
+| 12       | 246        | MOIS BRIDGE AMANAH                            |
+| 12       | 247        | MOLO AMANAH                                   |
+| 12       | 248        | MOUNTAIN MALL AMANAH                          |
+| 12       | 249        | MTWAPA AMANAH                                 |
+| 12       | 250        | MUTOMO AMANAH                                 |
+| 12       | 251        | NAKURU AMANAH                                 |
+| 12       | 252        | NANDI HILLS AMANAH                            |
+| 12       | 041        | MOIS BRIDGE                                   |
+| 12       | 042        | MUTOMO                                        |
+| 12       | 043        | KIANJAI                                       |
+| 12       | 044        | KENYATTA UNIVERSITY                           |
+| 12       | 045        | ST PAULS UNIVERSITY                           |
+| 12       | 046        | MOI UNIVERSITY ELDORET                        |
+| 12       | 047        | MOI INT AIRPORT MOMBASA                       |
+| 12       | 048        | MACHAKOS                                      |
+| 12       | 049        | KITENGELA                                     |
+| 12       | 050        | KISUMU                                        |
+| 12       | 051        | MTWAPA                                        |
+| 12       | 052        | CHANGAMWE                                     |
+| 12       | 053        | GARISSA                                       |
+| 12       | 054        | THIKA                                         |
+| 12       | 055        | MOMASA POLYTECHNIC UNIVERSITY COLLEGE         |
+| 12       | 075        | NANYUKI                                       |
+| 12       | 078        | WOTE                                          |
+| 12       | 079        | LODWAR                                        |
+| 12       | 081        | GIKOMBA                                       |
+| 14       | 011        | SAMEER BUSINESS PARK                          |
+| 14       | 000        | HEAD OFFICE                                   |
+| 14       | 001        | KOINANGE STREET                               |
+| 14       | 004        | NAKURU                                        |
+| 14       | 005        | ELDORET                                       |
+| 14       | 006        | KITALE                                        |
+| 14       | 007        | WESTLANDS                                     |
+| 14       | 010        | MOMBASA                                       |
+| 16       | 000        | HEAD OFFICE , NAIROBI                         |
+| 16       | 400        | MOMBASA                                       |
+| 16       | 500        | GIGIRI AGENCY                                 |
+| 16       | 700        | KISUMU                                        |
+| 17       | 000        | HEAD OFFICE                                   |
+| 17       | 001        | MOMBASA                                       |
+| 17       | 002        | INDUSTRIAL AREA                               |
+| 17       | 003        | WESTLANDS                                     |
+| 17       | 004        | NYALI                                         |
+| 18       | 000        | HEAD OFFICE                                   |
+| 18       | 001        | NAIROBI                                       |
+| 18       | 002        | MOMBASA                                       |
+| 18       | 003        | MILIMANI                                      |
+| 18       | 004        | INDUSTRIAL AREA                               |
+| 18       | 005        | ELDORET                                       |
+| 19       | 043        | UKUNDA                                        |
+| 19       | 000        | REINSURANCE PLAZA NAIROBI                     |
+| 19       | 001        | MOMBASA                                       |
+| 19       | 002        | WESTLANDS                                     |
+| 19       | 003        | UHURU HIGHWAY                                 |
+| 19       | 004        | RIVER ROAD                                    |
+| 19       | 005        | THIKA                                         |
+| 19       | 006        | KISUMU                                        |
+| 19       | 007        | RUARAKA                                       |
+| 19       | 008        | MONROVIA STREET                               |
+| 19       | 009        | NAKURU                                        |
+| 19       | 010        | NGONG ROAD                                    |
+| 19       | 011        | ELDORET                                       |
+| 19       | 012        | EMBAKASI                                      |
+| 19       | 014        | ONGATA RONGAI                                 |
+| 19       | 015        | CHANGAMWE                                     |
+| 19       | 016        | BUNGOMA                                       |
+| 19       | 017        | KISII                                         |
+| 19       | 018        | MERU                                          |
+| 19       | 019        | KITENGELA                                     |
+| 19       | 020        | NYALI                                         |
+| 19       | 021        | GALLERIA                                      |
+| 19       | 022        | GREENSPAN MALL                                |
+| 19       | 023        | UPPER HILLL                                   |
+| 19       | 024        | NANYUKI                                       |
+| 19       | 026        | KENYATTA AVENUE                               |
+| 19       | 027        | SAMEER BUSINESS PARK                          |
+| 19       | 028        | MOI AVENUE, MOMBASA                           |
+| 19       | 029        | ONGATA RONGAI II                              |
+| 19       | 030        | GIKOMBA                                       |
+| 19       | 031        | GITHURAI                                      |
+| 19       | 032        | EMBU                                          |
+| 19       | 033        | GATEWAY MALL                                  |
+| 19       | 034        | KITALE                                        |
+| 19       | 035        | SOUTH B                                       |
+| 19       | 036        | DIGO ROAD                                     |
+| 19       | 037        | OUTERING ROAD                                 |
+| 19       | 038        | LIKONI ROAD                                   |
+| 19       | 039        | THIKA ROAD                                    |
+| 19       | 040        | NAROK                                         |
+| 23       | 000        | HARAMBEE AVENUE                               |
+| 23       | 001        | MURANGA                                       |
+| 23       | 002        | EMBU                                          |
+| 23       | 003        | MOMBASA                                       |
+| 23       | 004        | KOINANGE STREET                               |
+| 23       | 005        | THIKA                                         |
+| 23       | 006        | MERU                                          |
+| 23       | 007        | NYERI                                         |
+| 23       | 008        | LAARE                                         |
+| 23       | 009        | MAUA                                          |
+| 23       | 010        | ISIOLO                                        |
+| 23       | 011        | HEAD OFFICE                                   |
+| 23       | 012        | CORPORATE                                     |
+| 23       | 013        | UMOJA                                         |
+| 23       | 014        | RIVER ROAD                                    |
+| 23       | 015        | ELDORET                                       |
+| 23       | 016        | NAKURU                                        |
+| 23       | 017        | KITENGELA                                     |
+| 23       | 018        | TAJ MALL                                      |
+| 25       | 016        | NGONG ROAD BRANCH                             |
+| 25       | 017        | MERU BRANCH                                   |
+| 25       | 018        | NKURUMA                                       |
+| 25       | 500        | SUMAC KOINANGE                                |
+| 25       | 019        | ONE AFRICA                                    |
+| 25       | 000        | HEAD OFFICE                                   |
+| 25       | 001        | KOINANGE STREET                               |
+| 25       | 002        | KISUMU                                        |
+| 25       | 003        | NAKURU                                        |
+| 25       | 004        | KISII                                         |
+| 25       | 005        | WESTLANDS                                     |
+| 25       | 006        | INDUSTRIAL AREA                               |
+| 25       | 008        | NAKURU, KENYATTA AVENUE                       |
+| 25       | 009        | ELDORET                                       |
+| 25       | 010        | RONGAI                                        |
+| 25       | 011        | MOMBASA- NYALI CENTRE                         |
+| 25       | 012        | THIKA                                         |
+| 25       | 013        | LAVINGTON MALL                                |
+| 25       | 014        | MACHAKOS                                      |
+| 25       | 015        | KITENGELA                                     |
+| 26       | 020        | FLAX                                          |
+| 26       | 021        | WESTLANDS                                     |
+| 26       | 024        | MARIGAT                                       |
+| 26       | 022        | BURNT FOREST                                  |
+| 26       | 025        | KAPCHEROP                                     |
+| 26       | 026        | KAPENGURIA                                    |
+| 26       | 027        | KAPTUMO                                       |
+| 26       | 028        | ELDAMA RAVINE                                 |
+| 26       | 001        | HEAD OFFICE                                   |
+| 26       | 002        | MOMBASA                                       |
+| 26       | 003        | ELDORET                                       |
+| 26       | 004        | NAKURU                                        |
+| 26       | 005        | MIA                                           |
+| 26       | 006        | JKIA                                          |
+| 26       | 007        | KIRINYAGA RD NAKURU                           |
+| 26       | 008        | KABARAK                                       |
+| 26       | 009        | OLENGURUONE                                   |
+| 26       | 010        | KERICHO                                       |
+| 26       | 011        | NANDI HILLS                                   |
+| 26       | 012        | EPZ                                           |
+| 26       | 013        | SHEIKH KARUME                                 |
+| 26       | 014        | KABARNET                                      |
+| 26       | 015        | KITALE                                        |
+| 26       | 016        | NAROK                                         |
+| 26       | 017        | BOMET                                         |
+| 26       | 018        | ITEN                                          |
+| 26       | 019        | LESSOS                                        |
+| 26       | 023        | KIPTAGICH                                     |
+| 31       | 030        | THE HUB                                       |
+| 31       | 031        | TWO RIVERS                                    |
+| 31       | 000        | CFC STANBIC HEAD OFFICE                       |
+| 31       | 002        | KENYATTA AVE                                  |
+| 31       | 021        | GARDEN CITY                                   |
+| 31       | 022        | ELDORET                                       |
+| 31       | 023        | KAREN                                         |
+| 31       | 018        | MERU                                          |
+| 31       | 019        | BURUBURU                                      |
+| 31       | 020        | GIKOMBA                                       |
+| 31       | 003        | DIGO ROAD                                     |
+| 31       | 004        | WAIYAKI WAY                                   |
+| 31       | 005        | INDUSTRIAL AREA                               |
+| 31       | 006        | HARAMBEE AVENUE                               |
+| 31       | 007        | CHIROMO ROAD                                  |
+| 31       | 008        | INTERNATIONAL HOUSE                           |
+| 31       | 010        | UPPER HILL                                    |
+| 31       | 011        | NAIVASHA                                      |
+| 31       | 012        | WESTGATE                                      |
+| 31       | 013        | KISUMU                                        |
+| 31       | 014        | NAKURU                                        |
+| 31       | 015        | THIKA                                         |
+| 31       | 017        | NANYUKI                                       |
+| 31       | 024        | KISII                                         |
+| 31       | 025        | WARWICK                                       |
+| 31       | 026        | PRIVATE CLIENTS                               |
+| 31       | 027        | NYALI                                         |
+| 31       | 028        | MALINDI                                       |
+| 31       | 029        | CHANGAMWE                                     |
+| 31       | 999        | CENTRAL PROCESSING H/O                        |
+| 31       | 032        | IMAARA BRANCH                                 |
+| 31       | 033        | KERICHO BRANCH                                |
+| 31       | 034        | EXPRESSWAY BRANCH                             |
+| 35       | 011        | GREEN HOUSE MALL(GHM)                         |
+| 35       | 010        | THIKA ROAD MALL                               |
+| 35       | 000        | HEAD OFFICE/KOINANGE ST.                      |
+| 35       | 001        | WESTLANDS                                     |
+| 35       | 002        | INDUSTRIAL AREA BRANCH                        |
+| 35       | 003        | NKRUMAH ROAD BRANCH/MOMBASA                   |
+| 35       | 004        | KISUMU BRANCH                                 |
+| 35       | 005        | ELDORET BRANCH                                |
+| 35       | 006        | MERU BRANCH                                   |
+| 35       | 007        | LIBRA HOUSE                                   |
+| 35       | 008        | NAKURU                                        |
+| 35       | 101        | CENTRAL OPERATIONS 1                          |
+| 35       | 102        | CENTRAL OPERATIONS 2                          |
+| 35       | 103        | CENTRAL OPERATIONS 3                          |
+| 35       | 104        | CENTRAL OPERATIONS 4                          |
+| 35       | 105        | CENTRAL OPERATIONS 5                          |
+| 43       | 030        | FORTIS OFFICE PARK                            |
+| 43       | 000        | FEDHA BRANCH , HEAD OFFICE                    |
+| 43       | 001        | MOI AVENUE NAIROBI                            |
+| 43       | 002        | AKIBA HSE MOMBASA                             |
+| 43       | 003        | PLAZA 2000                                    |
+| 43       | 004        | WESTMINISTER                                  |
+| 43       | 005        | CHAMBERS                                      |
+| 43       | 006        | THIKA                                         |
+| 43       | 018        | BUSIA                                         |
+| 43       | 019        | MALINDI                                       |
+| 43       | 020        | MERU                                          |
+| 43       | 021        | GIKOMBA                                       |
+| 43       | 022        | UPPERHILL                                     |
+| 43       | 023        | VALLEY ARCADE                                 |
+| 43       | 024        | KAREN                                         |
+| 43       | 025        | NYALI MOMBASA                                 |
+| 43       | 026        | ONGATA RONGAI                                 |
+| 43       | 027        | EMBAKASI                                      |
+| 43       | 028        | KITENGELA                                     |
+| 43       | 029        | THIKA MALL                                    |
+| 43       | 100        | HEAD OFFICE                                   |
+| 43       | 007        | ELDORET                                       |
+| 43       | 008        | KISUMU                                        |
+| 43       | 009        | KISII                                         |
+| 43       | 010        | KITALE                                        |
+| 43       | 011        | INDUSTRIAL AREA                               |
+| 43       | 012        | KARATINA                                      |
+| 43       | 013        | WESTLANDS                                     |
+| 43       | 014        | UNITED MALL                                   |
+| 43       | 015        | NAKURU                                        |
+| 43       | 016        | JOMO KENYATTA AVENUE                          |
+| 43       | 017        | NYERI                                         |
+| 50       | 001        | WESTLANDS                                     |
+| 50       | 002        | PARKLANDS                                     |
+| 50       | 003        | KOINANGE STREET                               |
+| 50       | 004        | MOMBASA                                       |
+| 50       | 006        | ELDORET                                       |
+| 50       | 007        | INDUSTRIAL AREA                               |
+| 50       | 008        | KISUMU                                        |
+| 50       | 000        | HEAD OFFICE                                   |
+| 51       | 409        | KISII                                         |
+| 51       | 502        | ONGATA RONGAI                                 |
+| 51       | 503        | KITENGELA                                     |
+| 51       | 507        | NAKURU                                        |
+| 51       | 603        | MOMBASA                                       |
+| 51       | 000        | HEAD OFFICE                                   |
+| 51       | 001        | KOINANGE STREET                               |
+| 51       | 100        | KIONGOZI                                      |
+| 51       | 101        | KAYOLE                                        |
+| 51       | 102        | EASTLEIGH                                     |
+| 51       | 105        | KAWANGWARE                                    |
+| 51       | 106        | KIBERA                                        |
+| 51       | 107        | KARIOBANGI                                    |
+| 51       | 114        | FUNZI ROAD                                    |
+| 51       | 115        | NGONG ROAD                                    |
+| 51       | 116        | KIRINYAGA ROAD                                |
+| 51       | 209        | MACHAKOS                                      |
+| 51       | 210        | MTWAPA                                        |
+| 51       | 213        | KIRITIRI                                      |
+| 51       | 301        | THIKA                                         |
+| 51       | 303        | MURANGA                                       |
+| 51       | 305        | WANGIGE                                       |
+| 51       | 306        | KIKUYU                                        |
+| 51       | 307        | BANANA                                        |
+| 51       | 308        | KIAMBU                                        |
+| 51       | 310        | UTAWALA                                       |
+| 51       | 316        | NYERI                                         |
+| 51       | 402        | KISUMU                                        |
+| 51       | 318        | SACCO CLEARING CENTRE                         |
+| 51       | 111        | CENTRAL CLEARING CENTER                       |
+| 51       | 401        | ELDORET                                       |
+| 53       | 000        | HEAD OFFICE                                   |
+| 53       | 001        | KIMATHI STREET                                |
+| 53       | 002        | IND AREA                                      |
+| 53       | 003        | WESTLANDS                                     |
+| 53       | 008        | MUTHAIGA                                      |
+| 53       | 009        | NANYUKI                                       |
+| 53       | 010        | THIKA                                         |
+| 53       | 011        | GIKOMBA                                       |
+| 53       | 012        | NGONG ROAD                                    |
+| 53       | 013        | MERU                                          |
+| 53       | 014        | NYALI                                         |
+| 53       | 015        | SKY PARK                                      |
+| 53       | 016        | KAREN                                         |
+| 53       | 004        | LAVINGTON                                     |
+| 53       | 005        | NKRUMAH ROAD , MOMBASA                        |
+| 53       | 006        | NAKURU                                        |
+| 53       | 007        | ELDORET                                       |
+| 54       | 004        | RUARAKA BRANCH                                |
+| 54       | 001        | VICTORIA TOWERS, UPPERHILL                    |
+| 54       | 002        | RIVERSIDE DRIVE                               |
+| 54       | 003        | LUNGA LUNGA SQUARE                            |
+| 54       | 005        | TWO RIVERS                                    |
+| 55       | 001        | HEAD OFFICE                                   |
+| 55       | 002        | WESTLANDS                                     |
+| 55       | 003        | MOMBASA                                       |
+| 55       | 004        | ELDORET                                       |
+| 55       | 005        | KISUMU                                        |
+| 55       | 006        | MOI AVE                                       |
+| 55       | 007        | MOMBASA ROAD                                  |
+| 55       | 008        | NYALI                                         |
+| 55       | 009        | NGONG ROAD                                    |
+| 55       | 010        | NAKURU                                        |
+| 57       | 036        | SPRING VALLEY                                 |
+| 57       | 037        | MERU                                          |
+| 57       | 000        | KENYATTA AVENUE                               |
+| 57       | 001        | 2ND NGONG AVENUE                              |
+| 57       | 002        | SARIT CENTRE                                  |
+| 57       | 003        | HEAD OFFICE                                   |
+| 57       | 019        | RIVERSIDE DRIVE BRANCH                        |
+| 57       | 020        | KISII                                         |
+| 57       | 021        | CHANGAMWE                                     |
+| 57       | 022        | MALINDI                                       |
+| 57       | 023        | NYERI                                         |
+| 57       | 024        | THIKA                                         |
+| 57       | 025        | GIGIRI                                        |
+| 57       | 026        | MTWAPA                                        |
+| 57       | 027        | LAVINGTON MALL                                |
+| 57       | 028        | KITALE                                        |
+| 57       | 029        | LUNGA LUNGA                                   |
+| 57       | 030        | YAYA CENTRE                                   |
+| 57       | 031        | GATEWAY MALL, SYOKIMAU                        |
+| 57       | 032        | RUARAKA                                       |
+| 57       | 098        | CARD CENTER                                   |
+| 57       | 004        | BIASHARA ST                                   |
+| 57       | 005        | NYERERE AVENUE, MOMBASA                       |
+| 57       | 006        | INDUSTRIAL AREA                               |
+| 57       | 007        | KISUMU                                        |
+| 57       | 008        | KAREN                                         |
+| 57       | 009        | PANARI CENTRE                                 |
+| 57       | 010        | PARKLANDS                                     |
+| 57       | 011        | WILSON AIRPORT                                |
+| 57       | 012        | ONGATA RONGAI                                 |
+| 57       | 013        | SOUTH C SHOPPING CENTRE                       |
+| 57       | 014        | NYALI CINEMAX                                 |
+| 57       | 015        | LANGATA LINK                                  |
+| 57       | 016        | VALLEY ARCADE                                 |
+| 57       | 017        | ELDORET                                       |
+| 57       | 018        | NAKURU                                        |
+| 57       | 034        | CROSS ROAD OFF RIVER ROAD                     |
+| 57       | 035        | NANYUKI                                       |
+| 57       | 038        | ELDAMA PARK                                   |
+| 57       | 039        | BANDA STREET                                  |
+| 57       | 040        | DUNGA ROAD                                    |
+| 57       | 041        | RIDGE COURT                                   |
+| 57       | 042        | BANDARI PLAZA                                 |
+| 57       | 043        | MOMBASA, MOI AVENUE                           |
+| 59       | 000        | HEAD OFFICE                                   |
+| 59       | 001        | LOITA STREET                                  |
+| 59       | 002        | NGONG ROAD BRANCH                             |
+| 60       | 078        | CARD CENTRE                                   |
+| 60       | 100        | HEAD OFFICE - IPS CLEARING CENTRE             |
+| 60       | 079        | GIKOMBA XPRESS                                |
+| 60       | 081        | JUBILEE ARCADE BRANCH                         |
+| 60       | 023        | BURU BURU                                     |
+| 60       | 024        | STRATHMORE                                    |
+| 60       | 025        | KISII                                         |
+| 60       | 026        | VIRTUAL                                       |
+| 60       | 027        | RAFIKI DTM CLEARING CENTER                    |
+| 60       | 028        | CHASE XPRESS - NGONG ROAD                     |
+| 60       | 029        | CHASE ELITE ABC PLACE                         |
+| 60       | 030        | SAMEER BUSINESS PARK                          |
+| 60       | 031        | MTWAPA                                        |
+| 60       | 032        | ONGATA RONGAI                                 |
+| 60       | 033        | WESTLANDS                                     |
+| 60       | 034        | MACHAKOS                                      |
+| 60       | 035        | MOMBASA OLD TOWN                              |
+| 60       | 036        | RIVER ROAD                                    |
+| 60       | 037        | LUNGA LUNGA                                   |
+| 60       | 038        | CHASE XPRESS DAGORETTI CORNER                 |
+| 60       | 039        | CHASE XPRESS MADARAKA CORNER                  |
+| 60       | 040        | KITALE                                        |
+| 60       | 041        | KIMATHI                                       |
+| 60       | 042        | NAROK                                         |
+| 60       | 043        | SACCO PROCESSING CENTRE                       |
+| 60       | 044        | GARISSA                                       |
+| 60       | 045        | KPA                                           |
+| 60       | 046        | LAVINGTON                                     |
+| 60       | 047        | KERICHO                                       |
+| 60       | 048        | KAREN                                         |
+| 60       | 049        | KILIMANI                                      |
+| 60       | 050        | KASUKU CENTRE                                 |
+| 60       | 051        | KILIFI                                        |
+| 60       | 052        | KISUMU NAIVAS                                 |
+| 60       | 053        | RUAKA                                         |
+| 60       | 054        | GARDEN CITY                                   |
+| 60       | 055        | XPRESS JOMVU                                  |
+| 60       | 056        | XPRESS KITENGELA                              |
+| 60       | 057        | KAYOLE                                        |
+| 60       | 058        | XPRESS LIMURU ROAD                            |
+| 60       | 059        | XPRESS PANGANI                                |
+| 60       | 060        | XPRESS NAKURU                                 |
+| 60       | 061        | XPRESS ELDORET                                |
+| 60       | 062        | NGONG MILELE                                  |
+| 60       | 063        | CORNER HOUSE                                  |
+| 60       | 064        | EASTLEIGH III                                 |
+| 60       | 022        | NYALI                                         |
+| 60       | 000        | HEAD OFFICE                                   |
+| 60       | 070        | CITY CENTRE                                   |
+| 60       | 065        | WESTLANDS                                     |
+| 60       | 066        | INDUSTRIAL AREA                               |
+| 60       | 067        | DIANI                                         |
+| 60       | 071        | MALINDI                                       |
+| 60       | 068        | MOMBASA                                       |
+| 60       | 076        | CHANGAMWE                                     |
+| 60       | 069        | KILIMANI                                      |
+| 60       | 075        | NEW MUTHAIGA                                  |
+| 60       | 072        | NYALI                                         |
+| 60       | 073        | SAMEER                                        |
+| 60       | 074        | HIGHRIDGE                                     |
+| 60       | 077        | GARDEN CITY                                   |
+| 60       | 016        | ELDORET                                       |
+| 60       | 001        | CITY CENTRE BRANCH                            |
+| 60       | 003        | VILLAGE MARKET                                |
+| 60       | 004        | MOMBASA MOI AVENUE                            |
+| 60       | 005        | HURLINGHAM                                    |
+| 60       | 006        | EASTLEIGH                                     |
+| 60       | 007        | PARKLANDS                                     |
+| 60       | 008        | RIVERSIDE MEWS                                |
+| 60       | 010        | THIKA                                         |
+| 60       | 011        | NAKURU                                        |
+| 60       | 012        | DONHOLM                                       |
+| 60       | 013        | BONDENI                                       |
+| 60       | 014        | NGARA MINI                                    |
+| 60       | 015        | KISUMU                                        |
+| 60       | 017        | DIAMOND PLAZA                                 |
+| 60       | 018        | WINDSOR                                       |
+| 60       | 019        | MALINDI                                       |
+| 60       | 020        | EMBAKASI                                      |
+| 60       | 021        | UPPER HILL                                    |
+| 61       | 024        | MACHAKOS                                      |
+| 61       | 019        | HURLINGHAM                                    |
+| 61       | 020        | RIVEROAD                                      |
+| 61       | 250        | ONGATA RONGAI                                 |
+| 61       | 022        | NANYUKI                                       |
+| 61       | 025        | EMBU                                          |
+| 61       | 016        | KITENGELA                                     |
+| 61       | 017        | NAIVASHA                                      |
+| 61       | 018        | KISII                                         |
+| 61       | 100        | HEAD OFFICE                                   |
+| 61       | 200        | REHANI HOUSE                                  |
+| 61       | 210        | KENYATTA MARKET                               |
+| 61       | 220        | GILL HOUSE                                    |
+| 61       | 230        | BURU BURU                                     |
+| 61       | 260        | THIKA ROAD MALL                               |
+| 61       | 270        | SAMEER BUSINESS PARK                          |
+| 61       | 280        | WESTLANDS                                     |
+| 61       | 300        | MOMBASA                                       |
+| 61       | 310        | NYALI                                         |
+| 61       | 400        | NAKURU                                        |
+| 61       | 410        | ELDORET                                       |
+| 61       | 500        | THIKA                                         |
+| 61       | 510        | NYERI                                         |
+| 61       | 520        | MERU                                          |
+| 61       | 600        | KISUMU                                        |
+| 61       | 023        | KOMAROCK                                      |
+| 62       | 066        | GARISSA                                       |
+| 62       | 075        | GILGIL                                        |
+| 62       | 085        | HOMA BAY                                      |
+| 62       | 095        | ISIOLO                                        |
+| 62       | 096        | ITEN                                          |
+| 62       | 100        | KABARNET                                      |
+| 62       | 107        | KAJIADO                                       |
+| 62       | 109        | KAKAMEGA                                      |
+| 62       | 111        | KANGUNDO                                      |
+| 62       | 113        | KAPENGURIA                                    |
+| 62       | 115        | KARURI                                        |
+| 62       | 116        | KAPSABET                                      |
+| 62       | 119        | KARATINA                                      |
+| 62       | 121        | KAREN                                         |
+| 62       | 128        | KERICHO                                       |
+| 62       | 308        | NAIVASHA                                      |
+| 62       | 309        | NAKURU                                        |
+| 62       | 312        | NANDI HILLS                                   |
+| 62       | 314        | NANYUKI                                       |
+| 62       | 315        | NAROK                                         |
+| 62       | 327        | NGARA RD NAIROBI                              |
+| 62       | 329        | NGONG                                         |
+| 62       | 333        | NYAHURURU                                     |
+| 62       | 341        | NYERI                                         |
+| 62       | 001        | HEAD OFFICE                                   |
+| 62       | 007        | ATHI RIVER                                    |
+| 62       | 013        | BOMET                                         |
+| 62       | 023        | BUNGOMA                                       |
+| 62       | 025        | BUSIA                                         |
+| 62       | 037        | CHUKA                                         |
+| 62       | 047        | EASTLEIGH                                     |
+| 62       | 050        | ELDAMA RAVINE                                 |
+| 62       | 051        | ELDORET                                       |
+| 62       | 056        | EMBU                                          |
+| 62       | 058        | ENTERPRISE RD                                 |
+| 62       | 249        | MERU                                          |
+| 62       | 272        | MOLO                                          |
+| 62       | 273        | SAVANI HSE MOMBASA                            |
+| 62       | 291        | MUMIAS                                        |
+| 62       | 293        | MURANGA                                       |
+| 62       | 298        | MWINGI                                        |
+| 62       | 347        | NYAMIRA                                       |
+| 62       | 357        | OYUGIS                                        |
+| 62       | 378        | RUIRU                                         |
+| 62       | 387        | SARE AWENDO                                   |
+| 62       | 397        | SIAYA                                         |
+| 62       | 409        | SUNA MIGORI                                   |
+| 62       | 414        | TAVETA                                        |
+| 62       | 416        | THIKA                                         |
+| 62       | 428        | UKUNDA                                        |
+| 62       | 436        | VIWANDANI                                     |
+| 62       | 437        | VOI                                           |
+| 62       | 440        | MWEA                                          |
+| 62       | 442        | WATAMU                                        |
+| 62       | 444        | WEBUYE                                        |
+| 62       | 448        | WESTLANDS NAIROBI                             |
+| 62       | 476        | EMALI                                         |
+| 62       | 560        | CHAANI                                        |
+| 62       | 592        | UTHIRU                                        |
+| 62       | 605        | CANON HSE NAIROBI                             |
+| 62       | 705        | AFYA HSE NAIROBI                              |
+| 62       | 707        | GITHURAI                                      |
+| 62       | 716        | MTWAPA                                        |
+| 62       | 731        | MOI AVE MOMBASA                               |
+| 62       | 133        | KERUGUYA                                      |
+| 62       | 135        | KEROKA                                        |
+| 62       | 139        | KAHANCHA                                      |
+| 62       | 141        | KIAMBU                                        |
+| 62       | 142        | KIBWEZI                                       |
+| 62       | 151        | KIKUYU                                        |
+| 62       | 152        | KILIFI                                        |
+| 62       | 159        | KISII                                         |
+| 62       | 161        | KISUMU                                        |
+| 62       | 163        | KITALE                                        |
+| 62       | 164        | KITUI                                         |
+| 62       | 198        | LIKONI                                        |
+| 62       | 199        | LIMURU                                        |
+| 62       | 202        | LODWAR                                        |
+| 62       | 208        | LUANDA                                        |
+| 62       | 213        | MACHAKOS                                      |
+| 62       | 222        | MATUU                                         |
+| 62       | 223        | MAKUENI                                       |
+| 62       | 226        | MALINDI                                       |
+| 62       | 228        | MBALE                                         |
+| 62       | 232        | MARIAKANI                                     |
+| 62       | 236        | MARSABIT                                      |
+| 62       | 239        | MAUA                                          |
+| 62       | 746        | NACICO NAIROBI                                |
+| 62       | 755        | ONGATA RONGAI                                 |
+| 62       | 771        | KISAUNI MOMBASA                               |
+| 62       | 782        | MLOLONGO                                      |
+| 62       | 785        | ADAMS ACADE NAIROBI                           |
+| 62       | 786        | KITENGELA                                     |
+| 62       | 787        | KARIOBANGI                                    |
+| 62       | 794        | MBITA                                         |
+| 62       | 795        | BODO                                          |
+| 62       | 796        | MARALAL                                       |
+| 62       | 797        | KAWANGWARE                                    |
+| 63       | 064        | WATAMU                                        |
+| 63       | 065        | RIVERSIDE                                     |
+| 63       | 066        | RIVAAN CENTER                                 |
+| 63       | 061        | NAROK                                         |
+| 63       | 070        | MWANZI ROAD                                   |
+| 63       | 069        | KOINANGE STREET                               |
+| 63       | 071        | ENTERPRISE ROAD                               |
+| 63       | 072        | NKURUMA ROAD MOMBASA                          |
+| 63       | 067        | NYERI                                         |
+| 63       | 052        | DTB CENTRE                                    |
+| 63       | 053        | SOUTH C                                       |
+| 63       | 054        | LAVINGTON                                     |
+| 63       | 056        | BIASHARA STREET, NAKURU                       |
+| 63       | 059        | EMBU                                          |
+| 63       | 060        | MACHAKOS                                      |
+| 63       | 027        | KAKAMEGA                                      |
+| 63       | 028        | KERICHO                                       |
+| 63       | 029        | UPPER HILL                                    |
+| 63       | 030        | WABERA STREET                                 |
+| 63       | 031        | KAREN                                         |
+| 63       | 032        | VOI                                           |
+| 63       | 033        | SHIMANZI                                      |
+| 63       | 034        | MERU                                          |
+| 63       | 035        | DIAMOND PLAZA                                 |
+| 63       | 036        | CROSSROAD                                     |
+| 63       | 037        | JKIA                                          |
+| 63       | 038        | NYALI                                         |
+| 63       | 039        | MIGORI BRANCH                                 |
+| 63       | 040        | MADINA MALL                                   |
+| 63       | 000        | HEAD OFFICE                                   |
+| 63       | 001        | NATION CENTRE                                 |
+| 63       | 002        | MOMBASA                                       |
+| 63       | 003        | KISUMU                                        |
+| 63       | 005        | PARKLANDS                                     |
+| 63       | 006        | WESTGATE                                      |
+| 63       | 008        | MOMBASA RD                                    |
+| 63       | 009        | IND AREA                                      |
+| 63       | 010        | KISII                                         |
+| 63       | 011        | MALINDI                                       |
+| 63       | 012        | THIKA                                         |
+| 63       | 013        | OTC                                           |
+| 63       | 041        | COURTYARD BRANCH                              |
+| 63       | 042        | MTWAPA BRANCH                                 |
+| 63       | 043        | LAMU BRANCH                                   |
+| 63       | 044        | KILIFI BRANCH                                 |
+| 63       | 045        | MARIAKANI BRANCH                              |
+| 63       | 046        | THIKA ROAD MALL                               |
+| 63       | 047        | RONALD NGALA                                  |
+| 63       | 048        | BUSIA                                         |
+| 63       | 049        | WEST END MALL - KISUMU                        |
+| 63       | 050        | TOM MBOYA                                     |
+| 63       | 077        | IMAARA MALL                                   |
+| 63       | 074        | KAHAWA SUKARI                                 |
+| 63       | 076        | KAMAKIS                                       |
+| 63       | 080        | GREENSPAN MALL BRANCH                         |
+| 63       | 079        | LIKONI MALL BRANCH                            |
+| 63       | 075        | SARIT CENTRE                                  |
+| 63       | 014        | ELDORET                                       |
+| 63       | 016        | CHANGAMWE                                     |
+| 63       | 017        | T-MALL                                        |
+| 63       | 018        | NAKURU                                        |
+| 63       | 019        | VILLAGE MARKET                                |
+| 63       | 020        | DIANI                                         |
+| 63       | 021        | BUNGOMA                                       |
+| 63       | 022        | KITALE                                        |
+| 63       | 023        | PRESTIGE                                      |
+| 63       | 024        | BURU BURU                                     |
+| 63       | 025        | KITENGELA                                     |
+| 63       | 026        | JOMO KENYATTA BRANCH                          |
+| 63       | 078        | KAYOLE JUNCTION                               |
+| 63       | 081        | KIAMBU                                        |
+| 63       | 083        | KIJABE STREET                                 |
+| 63       | 085        | KENOL BRANCH                                  |
+| 63       | 087        | OL-KALOU BRANCH                               |
+| 63       | 090        | GITHURAI BRANCH                               |
+| 63       | 082        | NEW EASTLEIGH BRANCH                          |
+| 63       | 084        | BABA DOGO BRANCH                              |
+| 63       | 088        | ONGATA RONGAI BRANCH                          |
+| 65       | 005        | INDUSTRIAL AREA BRANCH                        |
+| 65       | 004        | ELDORET BRANCH                                |
+| 65       | 000        | HEAD OFFICE                                   |
+| 65       | 001        | WESTLANDS                                     |
+| 65       | 002        | MAYFAIR CENTRE                                |
+| 65       | 003        | NYALI                                         |
+| 65       | 006        | UPPERHILL                                     |
+| 66       | 051        | SAMEER PARK                                   |
+| 66       | 052        | RIVER ROAD                                    |
+| 66       | 053        | TWO RIVERS                                    |
+| 66       | 054        | THE MALL WESTLANDS                            |
+| 66       | 000        | HEAD OFFICE                                   |
+| 66       | 001        | MAIN OFFICE                                   |
+| 66       | 002        | MOMBASA                                       |
+| 66       | 003        | KENYATTA AVE NBI                              |
+| 66       | 004        | NAKURU                                        |
+| 66       | 005        | NYERI                                         |
+| 66       | 006        | BURUBURU                                      |
+| 66       | 007        | EMBU                                          |
+| 66       | 008        | ELDORET                                       |
+| 66       | 009        | KISUMU                                        |
+| 66       | 010        | KERICHO                                       |
+| 66       | 011        | MLOLONGO                                      |
+| 66       | 012        | THIKA                                         |
+| 66       | 013        | KERUGOYA                                      |
+| 66       | 014        | KENYATTA MARKET                               |
+| 66       | 015        | KISII                                         |
+| 66       | 016        | CHUKA                                         |
+| 66       | 017        | KITUI                                         |
+| 66       | 018        | MACHAKOS                                      |
+| 66       | 019        | NANYUKI                                       |
+| 66       | 020        | KANGEMI                                       |
+| 66       | 021        | EMAIL                                         |
+| 66       | 022        | NAIVASHA                                      |
+| 66       | 023        | NYAHURURU                                     |
+| 66       | 024        | ISIOLO                                        |
+| 66       | 025        | MERU                                          |
+| 66       | 026        | KITALE                                        |
+| 66       | 027        | KIBWEZI                                       |
+| 66       | 028        | BUNGOMA                                       |
+| 66       | 029        | KAJIADO                                       |
+| 66       | 030        | NKUBU                                         |
+| 66       | 031        | MTWAPA                                        |
+| 66       | 032        | BUSIA                                         |
+| 66       | 033        | MOI NBI                                       |
+| 66       | 034        | MWEA                                          |
+| 66       | 035        | KENGELENI                                     |
+| 66       | 036        | KILIMANI                                      |
+| 66       | 037        | RONGAI                                        |
+| 66       | 100        | HEAD OFFICE                                   |
+| 66       | 058        | GIKOMBA                                       |
+| 66       | 059        | KAMAKIS                                       |
+| 68       | 175        | GARDEN CITY                                   |
+| 68       | 178        | WANGIGE SUB BRANCH                            |
+| 68       | 176        | MLOLONGO                                      |
+| 68       | 177        | EMBASSY HOUSE                                 |
+| 68       | 180        | KAWANGWARE SUB BRANCH                         |
+| 68       | 179        | UTAWALA                                       |
+| 68       | 190        | ENGINEER                                      |
+| 68       | 191        | NJABINI                                       |
+| 68       | 011        | NYERI                                         |
+| 68       | 012        | TOM MBOYA                                     |
+| 68       | 013        | NAKURU                                        |
+| 68       | 014        | MERU                                          |
+| 68       | 015        | MAMA NGINA                                    |
+| 68       | 016        | NYAHURURU                                     |
+| 68       | 017        | COMMUNITY                                     |
+| 68       | 018        | COMMUNITY CORPORATE                           |
+| 68       | 019        | EMBU                                          |
+| 68       | 020        | NAIVASHA                                      |
+| 68       | 021        | CHUKA                                         |
+| 68       | 084        | EASTLEIGH                                     |
+| 68       | 085        | NAMANGA                                       |
+| 68       | 086        | KAJIADO                                       |
+| 68       | 087        | RUIRU                                         |
+| 68       | 088        | OTC                                           |
+| 68       | 089        | KENOL                                         |
+| 68       | 090        | TALA                                          |
+| 68       | 091        | NGARA                                         |
+| 68       | 092        | NANDI HILLS                                   |
+| 68       | 093        | GITHUNGURI                                    |
+| 68       | 094        | TEA ROOM                                      |
+| 68       | 095        | BURU BURU                                     |
+| 68       | 096        | MBALE                                         |
+| 68       | 097        | SIAYA                                         |
+| 68       | 098        | HOMA BAY                                      |
+| 68       | 022        | MURANGA                                       |
+| 68       | 023        | MOLO                                          |
+| 68       | 024        | HARAMBEE AVENU                                |
+| 68       | 025        | MOMBASA                                       |
+| 68       | 026        | KIMATHI STREET                                |
+| 68       | 027        | NANYUKI                                       |
+| 68       | 028        | KERICHO                                       |
+| 68       | 029        | KISUMU                                        |
+| 68       | 030        | ELDORET                                       |
+| 68       | 031        | NAKURU KENYATTA AVENUE                        |
+| 68       | 032        | KARIOBANGI                                    |
+| 68       | 033        | KITALE                                        |
+| 68       | 034        | THIKA KENYATTA AVENUE                         |
+| 68       | 035        | KNUT HOUSE                                    |
+| 68       | 036        | NAROK                                         |
+| 68       | 037        | NKUBU                                         |
+| 68       | 038        | MWEA                                          |
+| 68       | 039        | MATUU                                         |
+| 68       | 040        | MAUA                                          |
+| 68       | 041        | ISIOLO                                        |
+| 68       | 042        | KAGIO                                         |
+| 68       | 043        | GIKOMBA                                       |
+| 68       | 044        | UKUNDA                                        |
+| 68       | 045        | MALINDI                                       |
+| 68       | 046        | MOMBASA DIGO ROAD                             |
+| 68       | 047        | MOI AVENUE                                    |
+| 68       | 048        | BUNGOMA                                       |
+| 68       | 049        | KAPSABET                                      |
+| 68       | 050        | KAKAMEGA                                      |
+| 68       | 051        | KISII                                         |
+| 68       | 052        | NYAMIRA                                       |
+| 68       | 053        | LITEIN                                        |
+| 68       | 054        | EQUITY CENTRE DIASPORA                        |
+| 68       | 055        | WESTLANDS                                     |
+| 68       | 056        | INDUSTRIAL AREA KENPIPE PLAZA                 |
+| 68       | 057        | KIKUYU                                        |
+| 68       | 058        | GARISSA                                       |
+| 68       | 059        | MWINGI                                        |
+| 68       | 060        | MACHAKOS                                      |
+| 68       | 061        | ONGATA RONGAI                                 |
+| 68       | 062        | OL-KALAO                                      |
+| 68       | 063        | KAWANGWARE                                    |
+| 68       | 064        | KIAMBU                                        |
+| 68       | 065        | KAYOLE                                        |
+| 68       | 066        | GATUNDU                                       |
+| 68       | 067        | WOTE                                          |
+| 68       | 068        | MUMIAS                                        |
+| 68       | 069        | LIMURU                                        |
+| 68       | 070        | KITENGELA                                     |
+| 68       | 071        | GITHURAI                                      |
+| 68       | 072        | KITUI                                         |
+| 68       | 073        | NGONG                                         |
+| 68       | 074        | LOITOKTOK                                     |
+| 68       | 075        | BONDO                                         |
+| 68       | 076        | MBITA                                         |
+| 68       | 077        | GILGIL                                        |
+| 68       | 078        | BUSIA                                         |
+| 68       | 079        | VOI                                           |
+| 68       | 080        | ENTERPRISE ROAD                               |
+| 68       | 081        | EQUITY CENTRE                                 |
+| 68       | 082        | DONHOLM                                       |
+| 68       | 083        | MUKURWE-INI                                   |
+| 68       | 006        | MURARANDIA                                    |
+| 68       | 007        | KANGARI                                       |
+| 68       | 008        | OTHAYA                                        |
+| 68       | 009        | THIKA / EQUITY PLAZA                          |
+| 68       | 010        | KERUGOYA                                      |
+| 68       | 116        | MIGORI                                        |
+| 68       | 117        | KIBERA                                        |
+| 68       | 118        | KASARANI                                      |
+| 68       | 119        | MTWAPA                                        |
+| 68       | 120        | CHANGAMWE                                     |
+| 68       | 121        | HOLA                                          |
+| 68       | 122        | BOMET                                         |
+| 68       | 123        | KILGORIS                                      |
+| 68       | 124        | KEROKA                                        |
+| 68       | 125        | KAREN                                         |
+| 68       | 126        | KISUMU ANGAWA AVE                             |
+| 68       | 127        | MPEKETONI                                     |
+| 68       | 128        | NAIROBI WEST                                  |
+| 68       | 129        | KENYATTA AVENUE                               |
+| 68       | 130        | CITY HALL                                     |
+| 68       | 131        | ELDAMA RAVINE                                 |
+| 68       | 132        | EMBAKASI                                      |
+| 68       | 133        | KPCU                                          |
+| 68       | 134        | RIDGEWAYS                                     |
+| 68       | 135        | RUNYENJES SUB BRANCH                          |
+| 68       | 136        | DADAAD                                        |
+| 68       | 137        | KANGEMI                                       |
+| 68       | 138        | NYALI CENTRE CORPORATE                        |
+| 68       | 139        | KABARNET                                      |
+| 68       | 140        | WESTLANDS CORPORATE                           |
+| 68       | 141        | LAVINGTON CORPORATE                           |
+| 68       | 142        | TAITA TAVETA                                  |
+| 68       | 143        | AWENDO                                        |
+| 68       | 144        | RUAI                                          |
+| 68       | 145        | KILIMANI                                      |
+| 68       | 146        | NAKURU WESTSIDE MALL                          |
+| 68       | 147        | KILIMANI SUPREME                              |
+| 68       | 148        | JKIA CARGO CENTRE                             |
+| 68       | 149        | EPZ ATHI RIVER                                |
+| 68       | 150        | OYUGIS                                        |
+| 68       | 151        | MAYFAIR SUPREME CENTRE                        |
+| 68       | 152        | JUJA                                          |
+| 68       | 153        | ITEN                                          |
+| 68       | 154        | NYALI SUPREME CENTRE                          |
+| 68       | 155        | THIKA SUPREME CENTRE                          |
+| 68       | 156        | MOMBASA SUPREME CENTRE                        |
+| 68       | 157        | KAPSOWAR SUB-BRANCH                           |
+| 68       | 158        | KWALE                                         |
+| 68       | 159        | LAMU                                          |
+| 68       | 000        | EQUITY BANK HEAD OFFICE                       |
+| 68       | 001        | EQUITY BANK CORPORATE                         |
+| 68       | 002        | EQUITY BANK FOURWAYS                          |
+| 68       | 003        | KANGEMA                                       |
+| 68       | 004        | KARATINA                                      |
+| 68       | 005        | KIRIAINI                                      |
+| 68       | 174        | RUAKA                                         |
+| 68       | 777        | EQUITY HAPO HAPO                              |
+| 68       | 099        | LODWAR                                        |
+| 68       | 100        | MANDERA                                       |
+| 68       | 101        | MARSABIT                                      |
+| 68       | 102        | MOYALE                                        |
+| 68       | 103        | WAJIR                                         |
+| 68       | 104        | MERU MAKUTANO                                 |
+| 68       | 105        | MALABA TOWN                                   |
+| 68       | 106        | KILIFI                                        |
+| 68       | 107        | KAPENGURIA                                    |
+| 68       | 108        | MOMBASA ROAD                                  |
+| 68       | 109        | ELDORET MARKET                                |
+| 68       | 110        | MARALAL                                       |
+| 68       | 111        | KIMENDE                                       |
+| 68       | 112        | LUANDA                                        |
+| 68       | 113        | KU SUB BRANCH                                 |
+| 68       | 114        | KENGELENI                                     |
+| 68       | 115        | NYERI KIMATHI WAY                             |
+| 68       | 160        | KENYATTA AVENUE SUPREME                       |
+| 68       | 161        | KPA SUB-BRANCH MOMBASA                        |
+| 68       | 162        | GIGIRI SUPREME CENTRE                         |
+| 68       | 163        | KAREN SUPREME CENTRE                          |
+| 68       | 164        | ELDORET SUPREME CENTRE                        |
+| 68       | 165        | KAKUMA                                        |
+| 68       | 166        | ARCHERS POST                                  |
+| 68       | 167        | MUTOMO                                        |
+| 68       | 168        | KISERIAN SUB BRANCH                           |
+| 68       | 169        | DAGORETTI CORNER                              |
+| 68       | 170        | KISUMU SUPREME CENTRE                         |
+| 68       | 171        | THIKA MAKONGENI                               |
+| 68       | 172        | KUTUS SUB - BRANCH                            |
+| 68       | 173        | KIBWEZI SUB - BRANCH                          |
+| 68       | 192        | KAHAWA WEST                                   |
+| 68       | 194        | CHAKA                                         |
+| 68       | 185        | ISINYA                                        |
+| 68       | 187        | ISIBANIA                                      |
+| 68       | 188        | KENYATTA MARKET                               |
+| 68       | 189        | INLAND CONTAINER DEPOT (ICD) EMBAKASI         |
+| 68       | 182        | KAGWE SUB - BRANCH                            |
+| 68       | 181        | EMALI BRANCH                                  |
+| 68       | 183        | RUMURUTI BRANCH                               |
+| 68       | 184        | SOTIK                                         |
+| 68       | 186        | LAARE                                         |
+| 70       | 030        | KANGEMI                                       |
+| 70       | 010        | JKIA                                          |
+| 70       | 020        | KUTUS                                         |
+| 70       | 070        | ISIOLO                                        |
+| 70       | 000        | HEAD OFFICE                                   |
+| 70       | 001        | KIAMBU                                        |
+| 70       | 002        | GITHUNGURI                                    |
+| 70       | 003        | SONALUX                                       |
+| 70       | 004        | GATUNDU                                       |
+| 70       | 005        | THIKA                                         |
+| 70       | 006        | MURANGA                                       |
+| 70       | 007        | KANGARI                                       |
+| 70       | 008        | KIRIA-INI                                     |
+| 70       | 009        | KANGEMA                                       |
+| 70       | 011        | OTHAYA                                        |
+| 70       | 012        | KENYATTA AVENUE                               |
+| 70       | 014        | CARGEN HOUSE                                  |
+| 70       | 015        | LAPTRUST                                      |
+| 70       | 016        | CITY HALL ANNEX                               |
+| 70       | 017        | KASARANI                                      |
+| 70       | 018        | NAKURU FINANCE HOUSE                          |
+| 70       | 019        | NAKURU MARKET                                 |
+| 70       | 021        | DAGORETTI                                     |
+| 70       | 022        | KERICHO                                       |
+| 70       | 023        | NYAHURURU                                     |
+| 70       | 024        | RUIRU                                         |
+| 70       | 025        | KISUMU RELIANCE                               |
+| 70       | 026        | NYAMIRA                                       |
+| 70       | 027        | KISII                                         |
+| 70       | 028        | KISUMU AL IMRAN                               |
+| 70       | 029        | NAROK                                         |
+| 70       | 031        | INDUSTRIAL AREA                               |
+| 70       | 032        | THIKA MAKONGENI                               |
+| 70       | 033        | DONHOLM                                       |
+| 70       | 034        | UTAWALA                                       |
+| 70       | 035        | FOURWAYS RETAIL BRANCH                        |
+| 70       | 036        | MLOLONGO                                      |
+| 70       | 037        | OLKALOU                                       |
+| 70       | 038        | KTDA PLAZA                                    |
+| 70       | 039        | GATEWAY MALL NAIROBI                          |
+| 70       | 041        | KARIOBANGI                                    |
+| 70       | 042        | GIKOMBA AREA 42                               |
+| 70       | 043        | SOKONI                                        |
+| 70       | 044        | KAHAWA WEST                                   |
+| 70       | 045        | GITHURAI                                      |
+| 70       | 046        | YAYA                                          |
+| 70       | 047        | LIMURU                                        |
+| 70       | 066        | ONGATA RONGAI                                 |
+| 70       | 067        | KAJIADO                                       |
+| 70       | 068        | FOURWAYS CORPORATE BRANCH                     |
+| 70       | 069        | NGARA                                         |
+| 70       | 071        | KITENGELA                                     |
+| 70       | 072        | KITUI                                         |
+| 70       | 073        | MACKAKOS                                      |
+| 70       | 074        | MIGORI                                        |
+| 70       | 075        | EMBU                                          |
+| 70       | 076        | MWEA                                          |
+| 70       | 077        | BUNGOMA                                       |
+| 70       | 078        | KAKAMEGA                                      |
+| 70       | 079        | BUSIA                                         |
+| 70       | 081        | MUMIAS                                        |
+| 70       | 082        | ELDORET WEST                                  |
+| 70       | 083        | MOLO                                          |
+| 70       | 084        | BOMET                                         |
+| 70       | 085        | ELDORET                                       |
+| 70       | 086        | MAUA                                          |
+| 70       | 087        | LITEIN                                        |
+| 70       | 088        | WOTE                                          |
+| 70       | 089        | BAMBURI                                       |
+| 70       | 091        | UKUNDA                                        |
+| 70       | 092        | DIGO                                          |
+| 70       | 093        | KITALE                                        |
+| 70       | 094        | MTWAPA                                        |
+| 70       | 095        | MOMBASA NKRUMAH ROAD                          |
+| 70       | 096        | MOMBASA JOMO KENYATTA AVENUE                  |
+| 70       | 097        | KAPSABET                                      |
+| 70       | 098        | MALINDI                                       |
+| 70       | 102        | KIKUYU                                        |
+| 70       | 048        | WESTLANDS                                     |
+| 70       | 049        | KAGWE                                         |
+| 70       | 051        | BANANA                                        |
+| 70       | 052        | RUAKA                                         |
+| 70       | 053        | NAIVASHA                                      |
+| 70       | 054        | CHUKA                                         |
+| 70       | 055        | NYERI                                         |
+| 70       | 056        | KARATINA                                      |
+| 70       | 057        | KERUGOYA                                      |
+| 70       | 058        | TOM MBOYA                                     |
+| 70       | 059        | RIVER ROAD                                    |
+| 70       | 061        | KAYOLE                                        |
+| 70       | 062        | NKUBU                                         |
+| 70       | 063        | MERU                                          |
+| 70       | 064        | NANYUKI                                       |
+| 70       | 065        | KTDA PLAZA CORPORATE                          |
+| 70       | 703        | STIMA SACCO BRANCH                            |
+| 70       | 099        | EASTLEIGH BRANCH                              |
+| 70       | 101        | WANGIGE -KIAMBU                               |
+| 72       | 019        | ELDORET                                       |
+| 72       | 020        | NAKURU                                        |
+| 72       | 000        | HEAD OFFICE                                   |
+| 72       | 001        | CENTRAL CLEARING CENTRE                       |
+| 72       | 002        | UPPERHILL                                     |
+| 72       | 003        | EASTLEIGH                                     |
+| 72       | 004        | KENYATTA AVENUE                               |
+| 72       | 005        | MOMBASA                                       |
+| 72       | 006        | GARISSA                                       |
+| 72       | 007        | LAMU                                          |
+| 72       | 008        | MALINDI                                       |
+| 72       | 009        | MUTHAIGA                                      |
+| 72       | 010        | BONDENI                                       |
+| 72       | 011        | EASTLEIGH 7TH STREET                          |
+| 72       | 012        | EASTLEIGH ATHUMANI KIPANGA STREET             |
+| 72       | 014        | INDUSTRIAL AREA                               |
+| 72       | 015        | JOMO KENYATTA AVENUE                          |
+| 72       | 017        | MOMBASA ROAD                                  |
+| 72       | 018        | ANNISAA BONDENI                               |
+| 74       | 001        | WABERA STREET                                 |
+| 74       | 002        | EASTLEIGH 1                                   |
+| 74       | 003        | MOMBASA 1                                     |
+| 74       | 004        | GARISSA                                       |
+| 74       | 005        | EASTLEIGH 2 - GENERAL WARUINGE                |
+| 74       | 006        | MALINDI                                       |
+| 74       | 007        | KISUMU                                        |
+| 74       | 008        | KIMATHI STREET                                |
+| 74       | 009        | WESTLANDS                                     |
+| 74       | 010        | SOUTH C                                       |
+| 74       | 011        | INDUSTRIAL AREA                               |
+| 74       | 012        | MASALANI                                      |
+| 74       | 013        | HABASWENI                                     |
+| 74       | 014        | WAJIR                                         |
+| 74       | 015        | MOYALE                                        |
+| 74       | 016        | NAKURU                                        |
+| 74       | 017        | IMAARA BUILDING                               |
+| 74       | 018        | LUNGA LUNGA                                   |
+| 74       | 019        | ISIOLO                                        |
+| 74       | 020        | MIHRAB                                        |
+| 74       | 999        | HEAD OFFICE/CLEARING CENTER                   |
+| 75       | 004        | EASTLEIGH                                     |
+| 75       | 005        | BONDENI                                       |
+| 75       | 000        | HEAD OFFICE                                   |
+| 75       | 006        | BANDA STREET                                  |
+| 75       | 003        | MOI AVENUE MOMBASA                            |
+| 75       | 001        | UPPER HILL BRANCH                             |
+| 75       | 002        | SARIT BRANCH                                  |
+| 76       | 005        | NAKURU                                        |
+| 76       | 004        | MOMBASA                                       |
+| 76       | 003        | UPPER HILL                                    |
+| 76       | 099        | HEAD OFFICE                                   |
+| 76       | 001        | WESTLANDS                                     |
+| 76       | 002        | ENTERPRISE ROAD                               |
+| 78       | 001        | KAKAMEGA BRANCH                               |
+| 78       | 002        | ELDORET BRANCH                                |
+| 78       | 003        | NYERI BRANCH                                  |
+| 78       | 004        | MOMBASA BRANCH                                |
+| 78       | 005        | RIVER RD BRANCH                               |
+| 78       | 006        | MALINDI BRANCH                                |
+| 78       | 007        | KERICHO BRANCH                                |
+| 78       | 008        | MACHAKOS BRANCH                               |
+| 78       | 009        | EMBU BRANCH                                   |
+| 78       | 010        | KISII BRANCH                                  |
+| 78       | 011        | NANYUKI BRANCH                                |
+| 78       | 012        | MIGORI BRANCH                                 |
+| 78       | 013        | THIKA BRANCH                                  |
+| 78       | 014        | KITALE BRANCH                                 |
+| 78       | 000        | HEAD OFFICE                                   |
+| 78       | 023        | KITUI                                         |
+| 78       | 015        | NAKURU BRANCH                                 |
+| 78       | 016        | EMALI BRANCH                                  |
+| 78       | 017        | VOI BRANCH                                    |
+| 78       | 018        | KISUMU BRANCH                                 |
+| 78       | 019        | MERU BRANCH                                   |
+| 78       | 020        | DIANI BRANCH                                  |
+| 78       | 021        | UPPERHILL BRANCH                              |
+| 78       | 022        | NAIVASHA BRANCH                               |
+| 78       | 024        | BUSIA BRANCH                                  |
+| 78       | 027        | KARIOBANGI BRANCH                             |
+| 78       | 028        | BUNGOMA BRANCH                                |
+| 78       | 029        | BOMET BRANCH                                  |
+| 78       | 031        | KAWANGWARE BRANCH                             |
+| 78       | 032        | GIKOMBA BRANCH                                |
+| 78       | 033        | KIAMBU BRANCH                                 |
+| 78       | 034        | RONGAI BRANCH                                 |
+| 78       | 041        | MARSABIT BRANCH                               |
+| 78       | 043        | LODWAR BRANCH                                 |
+| 79       | 003        | KARIOBANGI                                    |
+| 79       | 004        | GITHURAI                                      |
+| 79       | 046        | KAWANGWARE                                    |
+| 79       | 047        | KAYOLE                                        |
+| 79       | 048        | MATUU                                         |
+| 79       | 049        | MWEA                                          |
+| 79       | 050        | MAKUTANO                                      |
+| 79       | 051        | MUMIAS                                        |
+| 79       | 052        | KISERIAN                                      |
+| 79       | 053        | RONGAI                                        |
+| 79       | 055        | MIGORI                                        |
+| 79       | 062        | KILIFI                                        |
+| 79       | 080        | KIBERA                                        |
+| 79       | 084        | MOI AVENUE MSA                                |
+| 79       | 079        | KIMATHI ST                                    |
+| 79       | 005        | MACHAKOS                                      |
+| 79       | 006        | NGONG ROAD                                    |
+| 79       | 002        | OTC                                           |
+| 79       | 007        | KIAMBU                                        |
+| 79       | 008        | NAKURU                                        |
+| 79       | 009        | NYAHURURU                                     |
+| 79       | 010        | MOLO                                          |
+| 79       | 013        | NAIVASHA                                      |
+| 79       | 015        | ELDORET                                       |
+| 79       | 016        | BUNGOMA                                       |
+| 79       | 017        | KITALE                                        |
+| 79       | 018        | MOIS BRIDGE                                   |
+| 79       | 019        | KISUMU                                        |
+| 79       | 020        | NYERI                                         |
+| 79       | 021        | THIKA                                         |
+| 79       | 022        | MERU                                          |
+| 79       | 025        | MALINDI                                       |
+| 79       | 027        | KITENGELA                                     |
+| 79       | 023        | EMBU                                          |
+| 79       | 024        | MOMBASA CENTRAL                               |
+| 79       | 029        | NAROK                                         |
+| 79       | 031        | KABARNET                                      |
+| 79       | 032        | KARATINA                                      |
+| 79       | 035        | MURANGA                                       |
+| 79       | 036        | NANYUKI                                       |
+| 79       | 039        | MAUA                                          |
+| 79       | 042        | LITEIN                                        |
+| 79       | 043        | KENGELENI                                     |
+| 79       | 083        | JEVANJEE                                      |
+| 79       | 034        | KITUI                                         |
+| 79       | 033        | MWINGI                                        |
+| 79       | 041        | KAKAMEGA                                      |
+| 79       | 011        | BOMET                                         |
+| 79       | 044        | CHANGAMWE                                     |
+| 79       | 058        | UKUNDA                                        |
+| 79       | 054        | BONDO                                         |
+| 79       | 086        | GIKOMBA                                       |
+| 79       | 056        | UGUNJA                                        |
+| 79       | 065        | KAPENGURIA                                    |
+| 79       | 045        | VOI                                           |
+| 79       | 085        | HOMABAY                                       |
+| 79       | 074        | BUSIA                                         |
+| 79       | 060        | LIMURU                                        |
+| 79       | 012        | KERICHO                                       |
+| 80       | 001        | HEAD OFFICE                                   |
+| 80       | 002        | CARDINAL OTUNGA PLAZA                         |
+| 80       | 003        | CARDINAL OTUNGA ANNEX                         |
+| 80       | 004        | KAWANGWARE                                    |
+| 80       | 005        | DONHOLM                                       |
+| 80       | 006        | THIKA                                         |
+| 80       | 007        | KARURI                                        |
+| 80       | 008        | KAREN                                         |
+| 80       | 009        | NYERI                                         |
